@@ -15,6 +15,9 @@ if [ "$1" == "getpackages" ]; then
 elif [ "$1" == "createimage" ]; then
     sudo rm -rf $imgtargetdir
     sudo kiwi-ng --type vmx system build --description suse/x86_64/suse-leap-15.0-JeOS --target-dir $imgtargetdir
+elif [ "$1" == "createoemimage" ]; then
+    sudo rm -rf $imgtargetdir
+    sudo kiwi-ng --type oem system build --description suse/x86_64/suse-leap-15.1-JeOS --target-dir $imgtargetdir
 else
-    echo "./tools.sh [ getpackages | createimage ]"
+    echo "./tools.sh [ getpackages | createimage | createoemimage ]"
 fi
