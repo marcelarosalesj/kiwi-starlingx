@@ -94,10 +94,6 @@
         <package name="libsm_db1"/>
         <package name="libsm_db1-devel"/>
         <package name="mtce-common-devel"/>
-        <package name="mtce-compute"/>
-        <package name="mtce-control"/>
-        <package name="mtce-guestAgent"/>
-        <package name="mtce-guestServer"/>
         <package name="mtce-storage"/>
         <package name="nfv"/>
         <package name="nfv-client"/>
@@ -105,7 +101,6 @@
         <package name="nfv-plugins"/>
         <package name="nfv-tools"/>
         <package name="nfv-vim"/>
-        <package name="nova-api-proxy"/>
         <package name="platform-kickstarts"/>
         <package name="platform-kickstarts-extracfgs"/>
         <package name="platform-kickstarts-pxeboot"/>
@@ -121,9 +116,6 @@
         <package name="puppet-sshd"/>
         <package name="puppet-sysinv"/>
         <package name="python-fmclient"/>
-        <package name="python-inventoryclient"/>
-        <package name="sm-api"/>
-        <package name="sm-common"/>
         <package name="sm-common-devel"/>
         <package name="sm-common-libs"/>
         <package name="sm-eru"/>
@@ -134,7 +126,6 @@
         <package name="snmp-ext-devel"/>
         <package name="starlingx-dashboard"/>
         <package name="storageconfig"/>
-        <package name="sysinv"/>
         <package name="sysinv-agent"/>
         <package name="tsconfig"/>
         <package name="worker-utils"/>
