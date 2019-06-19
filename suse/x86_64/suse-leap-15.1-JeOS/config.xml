@@ -50,6 +50,9 @@
     <repository type="rpm-md" alias="OpenStack_Stein" imageinclude="true">
         <source path="obs://Cloud:OpenStack:Stein/openSUSE_Leap_15.0"/>
     </repository>
+    <repository type="rpm-md" alias="Kernel_tools" imageinclude="true">
+        <source path="obs://Kernel:tools/openSUSE_Leap_15.1"/>
+    </repository>
     <packages type="image">
         <package name="checkmedia"/>
         <package name="patterns-openSUSE-base"/>
