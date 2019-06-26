@@ -78,6 +78,7 @@
         <package name="shim"/>
         <package name="kernel-default"/>
         <package name="timezone"/>
+        <!-- StarlingX Packages Begin -->
         <package name="A"/>
         <package name="B"/>
         <package name="C"/>
@@ -141,6 +142,7 @@
         <package name="workerconfig"/>
         <package name="workerconfig-standalone"/>
         <package name="workerconfig-subfunction"/>
+        <!-- StarlingX Packages End -->
     </packages>
     <packages type="iso">
         <package name="gfxboot-branding-openSUSE"/>
