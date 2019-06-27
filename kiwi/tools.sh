@@ -9,6 +9,7 @@ leap151dir="suse/x86_64/suse-leap-15.1-JeOS"
 
 end_delimiter="     <!-- StarlingX Packages End -->"
 
+
 if [ "$1" == "addpackages" ]; then
     # Add starlingx to zypper repos - this is needed id starlingx repo does not exist
     # sudo zypper removerepo starlingx ||
@@ -20,12 +21,14 @@ if [ "$1" == "addpackages" ]; then
             # skip this one because it is the Name column
             :
         else
-            package_to_add="        <package name=\"$i\"/>";
+            package_to_add="<package name=\"$i\"/>";
             if [ "$2" == "150" ]; then
                 grep -q "$package_to_add" $leap150dir/config.xml
                 if [ "$?" -ne 0 ]; then
                     echo "$package_to_add"
-                    #sed -i "s/$end_delimiter/$package_to_add\n$end_delimiter/g" $leap150dir/config.xml
+                    line_number=$(sed -n '/<!-- StarlingX Packages End -->/=' ${leap150dir}/config.xml)
+                    echo "line no: $line_number"
+                    sed -i "$line_number i         $package_to_add" ${leap150dir}/config.xml
                 fi
             elif [ "$2" == "151" ]; then
                 grep -q "$package_to_add" $leap151dir/config.xml
