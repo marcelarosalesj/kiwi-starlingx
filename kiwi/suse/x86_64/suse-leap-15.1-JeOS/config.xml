@@ -136,6 +136,29 @@
         <package name="workerconfig"/>
         <package name="workerconfig-standalone"/>
         <package name="workerconfig-subfunction"/>
+name="enable-dev-patch"/>
+name="libamon1"/>
+name="libamon1-devel"/>
+name="mtce"/>
+name="mtce-compute"/>
+name="mtce-control"/>
+name="mtce-devel"/>
+name="mtce-guestAgent"/>
+name="mtce-guestServer"/>
+name="mtce-hostw"/>
+name="mtce-hwmon"/>
+name="mtce-lmon"/>
+name="nova-api-proxy"/>
+name="patch-alarm"/>
+name="puppet-manifests"/>
+name="python-inventoryclient"/>
+name="sm"/>
+name="sm-api"/>
+name="sm-common"/>
+name="stx-patch"/>
+name="stx-patch-agent"/>
+name="stx-patch-controller"/>
+name="sysinv"/>
         <!-- StarlingX Packages End -->
     </packages>
     <packages type="iso">

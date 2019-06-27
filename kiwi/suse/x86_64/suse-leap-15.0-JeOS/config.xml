@@ -142,6 +142,20 @@
         <package name="workerconfig"/>
         <package name="workerconfig-standalone"/>
         <package name="workerconfig-subfunction"/>
+name="enable-dev-patch"/>
+name="libamon1"/>
+name="libamon1-devel"/>
+name="mtce"/>
+name="mtce-devel"/>
+name="mtce-hostw"/>
+name="mtce-hwmon"/>
+name="mtce-lmon"/>
+name="patch-alarm"/>
+name="puppet-manifests"/>
+name="sm"/>
+name="stx-patch"/>
+name="stx-patch-agent"/>
+name="stx-patch-controller"/>
         <!-- StarlingX Packages End -->
     </packages>
     <packages type="iso">
