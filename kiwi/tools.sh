@@ -10,8 +10,8 @@ leap151dir="suse/x86_64/suse-leap-15.1-JeOS"
 end_delimiter="     <!-- StarlingX Packages End -->"
 
 add_packages(){
-    package_to_add=$2
-    xml_directory=$3
+    package_to_add=$1
+    xml_directory=$2
     grep -q "$package_to_add" $xml_directory/config.xml # Verify if it is already in the XML
     if [ "$?" -ne 0 ]; then
         echo "$package_to_add"
@@ -36,9 +36,9 @@ if [ "$1" == "addpackages" ]; then
         else
             package_to_add="<package name=\"$i\"/>";
             if [ "$2" == "150" ]; then
-                add_packages $package_to_add $leap150dir
+                add_packages "$package_to_add" $leap150dir
             elif [ "$2" == "151" ]; then
-                add_packages $package_to_add $leap151dir
+                add_packages "$package_to_add" $leap151dir
             fi
         fi
     done
