@@ -9,6 +9,19 @@ leap151dir="suse/x86_64/suse-leap-15.1-JeOS"
 
 end_delimiter="     <!-- StarlingX Packages End -->"
 
+add_packages(){
+    package_to_add=$2
+    xml_directory=$3
+    grep -q "$package_to_add" $xml_directory/config.xml # Verify if it is already in the XML
+    if [ "$?" -ne 0 ]; then
+        echo "$package_to_add"
+        line_number=$(sed -n '/<!-- StarlingX Packages End -->/=' ${xml_directory}/config.xml)
+        echo "line no: $line_number"
+        sed -i "$line_number i $package_to_add" ${xml_directory}/config.xml
+    fi
+
+
+}
 
 if [ "$1" == "addpackages" ]; then
     # Add starlingx to zypper repos - this is needed id starlingx repo does not exist
@@ -23,19 +36,9 @@ if [ "$1" == "addpackages" ]; then
         else
             package_to_add="<package name=\"$i\"/>";
             if [ "$2" == "150" ]; then
-                grep -q "$package_to_add" $leap150dir/config.xml
-                if [ "$?" -ne 0 ]; then
-                    echo "$package_to_add"
-                    line_number=$(sed -n '/<!-- StarlingX Packages End -->/=' ${leap150dir}/config.xml)
-                    echo "line no: $line_number"
-                    sed -i "$line_number i         $package_to_add" ${leap150dir}/config.xml
-                fi
+                add_packages $package_to_add $leap150dir
             elif [ "$2" == "151" ]; then
-                grep -q "$package_to_add" $leap151dir/config.xml
-                if [ "$?" -ne 0 ]; then
-                    echo "$package_to_add"
-                fi
-
+                add_packages $package_to_add $leap151dir
             fi
         fi
     done
