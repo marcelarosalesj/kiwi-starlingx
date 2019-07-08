@@ -5,4 +5,9 @@ RUN zypper -n addrepo -G http://download.opensuse.org/repositories/Cloud:/OpenSt
 #RUN zypper -n addrepo -G https://download.opensuse.org/repositories/Kernel:/tools/openSUSE_Leap_15.0/Kernel:tools.repo
 RUN zypper -n refresh && zypper -n  install vim
 
-RUN zypper -n install `zypper pa -ur 2 | awk '{print $5}' | tail -n +5`
+
+# Install all starlingx packages
+#RUN zypper -n install `zypper pa -ur 2 | awk '{print $5}' | tail -n +5`
+
+# Install one package
+RUN zypper -n install sm-api
