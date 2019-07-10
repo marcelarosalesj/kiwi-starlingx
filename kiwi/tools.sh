@@ -43,11 +43,13 @@ if [ "$1" == "addpackages" ]; then
         fi
     done
 elif [ "$1" == "createimage" ]; then
+    [ "$2" == "150"  ] && leapdir=$leap150dir || leapdir=$leap151dir
     sudo rm -rf $imgtargetdir
-    sudo kiwi-ng --type vmx system build --description $leap150dir --target-dir $imgtargetdir
+    sudo kiwi-ng --type vmx system build --description $leapdir --target-dir $imgtargetdir
 elif [ "$1" == "createoemimage" ]; then
+    [ "$2" == "150"  ] && leapdir=$leap150dir || leapdir=$leap151dir
     sudo rm -rf $imgtargetdir
-    sudo kiwi-ng --type oem system build --description $leap151dir --target-dir $imgtargetdir
+    sudo kiwi-ng --type oem system build --description $leapdir --target-dir $imgtargetdir
 else
     echo "./tools.sh [ getpackages | createimage | createoemimage ]"
 fi
