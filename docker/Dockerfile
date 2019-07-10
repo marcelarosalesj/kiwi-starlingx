@@ -1,4 +1,4 @@
-FROM opensuse:leap
+FROM opensuse/leap
 
 COPY myrepo /myrepo
 
