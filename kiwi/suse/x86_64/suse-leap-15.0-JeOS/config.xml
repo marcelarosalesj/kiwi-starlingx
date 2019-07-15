@@ -151,7 +151,6 @@
 <package name="mtce-hwmon"/>
 <package name="mtce-lmon"/>
 <package name="patch-alarm"/>
-<package name="puppet-manifests"/>
 <package name="sm"/>
 <package name="stx-patch"/>
 <package name="stx-patch-agent"/>

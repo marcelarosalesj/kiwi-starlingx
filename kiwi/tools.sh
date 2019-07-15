@@ -51,5 +51,5 @@ elif [ "$1" == "createoemimage" ]; then
     sudo rm -rf $imgtargetdir
     sudo kiwi-ng --type oem system build --description $leapdir --target-dir $imgtargetdir
 else
-    echo "./tools.sh [ getpackages | createimage | createoemimage ]"
+    echo "./tools.sh [ addpackages | createimage | createoemimage ] [ 150 | 151 ]"
 fi

@@ -150,7 +150,6 @@
 <package name="mtce-lmon"/>
 <package name="nova-api-proxy"/>
 <package name="patch-alarm"/>
-<package name="puppet-manifests"/>
 <package name="python-inventoryclient"/>
 <package name="sm"/>
 <package name="sm-api"/>
