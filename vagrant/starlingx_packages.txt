@@ -10,7 +10,6 @@ fm-common-devel
 fm-common-doc
 fm-doc
 fm-mgr
-fm-rest-api
 libsm_db1
 libsm_db1-devel
 mtce-common-devel
@@ -25,11 +24,9 @@ nfv-common
 nfv-plugins
 nfv-tools
 nfv-vim
-nova-api-proxy
 platform-kickstarts
 platform-kickstarts-extracfgs
 platform-kickstarts-pxeboot
-playbookconfig
 puppet-dcdbsync
 puppet-dcmanager
 puppet-dcorch

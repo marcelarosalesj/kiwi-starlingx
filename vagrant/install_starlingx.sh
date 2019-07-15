@@ -13,7 +13,7 @@ gen_stx_list(){
 }
 
 install_starlingx(){
-    sudo zypper -n install $(cat $STX_LIST)
+    sudo zypper -n --no-gpg-checks install $(cat $STX_LIST)
 }
 
 add_my_repo(){
