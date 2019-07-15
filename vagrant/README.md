@@ -1,17 +1,18 @@
 # Vagrant
 
 ## Prerequisites 
+* Install vagrant
 
-```
-sudo zypper install vagrant
-sudo usermod -G libvirt -a $USER
-```
-## Usage of Vagrant box
+## Usage of this StarlingX Vagrant box
 ```
 vagrant up
-
+cd /vagrant # in the VM
+./install_starlingx.sh
 ```
 * Vagrant supports HTTP_PROXY and HTTPS_PROXY environmental variables.
+* /vagrant is a sync folder with the host machine
+* install_starlingx.sh script will download the starlingx packages in the list starlingx_packages.txt. This is to have a
+  little bit of control on what is installed on the virtual machine as right now some packages stil have errors.
 
 ## References
 - [Vagrant Cloud opensuse box](https://app.vagrantup.com/opensuse/boxes/openSUSE-15.0-x86_64)
