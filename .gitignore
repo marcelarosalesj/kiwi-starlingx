@@ -1,2 +1,6 @@
 *.rpm
 *.iso
+cgcs-root/
+stx-tools/
+.repo/
+.vagrant/
