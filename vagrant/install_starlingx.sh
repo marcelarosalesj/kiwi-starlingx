@@ -9,7 +9,7 @@ add_repos(){
 
 
 gen_stx_list(){
-    sudo zypper pa -ur Cloud_StarlingX_2.0 | awk '{print $5}' | tail -n +5 > $STX_LIST
+    sudo zypper pa -r Cloud_StarlingX_2.0 | awk -F '|' '{print $3}' | tail -n +5 | tr -d " " > $STX_LIST
 }
 
 install_starlingx(){
