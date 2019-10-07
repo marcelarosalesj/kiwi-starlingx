@@ -67,6 +67,9 @@ vagrant halt
 sudo journalctl -xe -u hwmon
 systemctl start hwmon
 systemctl daemon-reload
+
+# Zypper
+zypper install --download-only <package name>
 ```
 
 ## References
