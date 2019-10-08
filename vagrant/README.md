@@ -70,6 +70,9 @@ systemctl daemon-reload
 
 # Zypper
 zypper install --download-only <package name>
+# packages will be /var/cache/zypp/packages/
+
+
 ```
 
 ## References
