@@ -4,3 +4,5 @@ cgcs-root/
 stx-tools/
 .repo/
 .vagrant/
+*.html
+repodata
