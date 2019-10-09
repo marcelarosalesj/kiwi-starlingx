@@ -6,3 +6,6 @@ stx-tools/
 .vagrant/
 *.html
 repodata
+__pycache__
+*.log
+*.pyc

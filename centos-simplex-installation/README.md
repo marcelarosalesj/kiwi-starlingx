@@ -10,4 +10,19 @@ In a simplex installation this file is located in /www/pages/feed/rel-19.09/repo
 **smallsystem_ks.cfg**
 For simplex, this file contains what of the comps.xml packages are going to be installed. The @ is for software group selection, the - is to exclude packages.
 
-**packages-\*** from previous files, I generated manually these lists of files that are required for starlingx installation (centos)
+**packages-\*** from previous files, I generated manually these lists of files that are required for starlingx installation (centos).
+
+## First assessment
+
+A **centos-to-opensuse.py**  script is used to do a zypper search on each package in the packages-* lists. I used an openSUSE docker container for this.
+
+```
+docker pull opensuse/leap
+docker run -it -v $(pwd):/localdisk opensuse/leap
+# inside the container
+cd /localdisk
+zypper install python3 vim
+python3 centos-to-opensuse.py
+# wait, they're 795 packages...
+```
+Then, do a visual inspection of the `search-results.txt` file.

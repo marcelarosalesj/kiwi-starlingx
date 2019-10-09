@@ -1,0 +1,3693 @@
+----------------------------
+>>> CentOS Package: acl
+openSUSE search results:
+b'acl'
+----------------------------
+>>> CentOS Package: at
+openSUSE search results:
+b'at'
+b'perl-Task-Kensho-Dates'
+b'texlive-rmathbr'
+----------------------------
+>>> CentOS Package: attr
+openSUSE search results:
+b'attr'
+----------------------------
+>>> CentOS Package: authconfig
+openSUSE search results:
+----------------------------
+>>> CentOS Package: bc
+openSUSE search results:
+b'bc'
+----------------------------
+>>> CentOS Package: bind-utils
+openSUSE search results:
+b'bind-utils'
+----------------------------
+>>> CentOS Package: centos-indexhtml
+openSUSE search results:
+----------------------------
+>>> CentOS Package: cpio
+openSUSE search results:
+b'cpio'
+b'cpio-lang'
+----------------------------
+>>> CentOS Package: crda
+openSUSE search results:
+b'crda'
+----------------------------
+>>> CentOS Package: crontabs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: cyrus-sasl-plain
+openSUSE search results:
+b'cyrus-sasl-plain'
+----------------------------
+>>> CentOS Package: dbus
+openSUSE search results:
+b'ghc-dbus-devel'
+b'lua51-ldbus'
+b'lua51-lua-dbus'
+b'lua53-ldbus'
+b'lua53-lua-dbus'
+b'python2-slip-dbus'
+b'python3-slip-dbus'
+----------------------------
+>>> CentOS Package: ed
+openSUSE search results:
+b'ed'
+----------------------------
+>>> CentOS Package: file
+openSUSE search results:
+b'audiofile-devel'
+b'audiofile-devel-32bit'
+b'audiofile-doc'
+b'file'
+b'file-devel'
+b'file-devel-32bit'
+b'ghc-file-embed'
+b'ghc-filelock'
+b'ghc-system-filepath'
+b'libcfile-devel'
+b'libcfile1'
+b'libkdumpfile7'
+b'libpantheon-files-core-devel'
+b'libpantheon-files-widgets-devel'
+b'libscamperfile-devel'
+b'libxkbfile-devel'
+b'libxkbfile-devel-32bit'
+b'libxkbfile1'
+b'libxkbfile1-32bit'
+b'obs-service-extract_file'
+b'obs-service-format_spec_file'
+b'obs-service-verify_file'
+b'ocaml-fileutils'
+b'pantheon-files'
+b'perl-File-Comments'
+b'perl-File-MMagic'
+b'perl-File-MimeInfo'
+b'perl-File-RandomAccess'
+b'perl-File-ReadBackwards'
+b'perl-File-Temp'
+b'perl-File-Type'
+b'perl-File-Unpack'
+b'perl-Filesys-Notify-Simple'
+b'perl-LockFile-Simple'
+b'python2-lockfile'
+b'python2-pytest-openfiles'
+b'python3-lockfile'
+b'python3-pytest-openfiles'
+b'rox-filer'
+b'texlive-currfile'
+b'texlive-filemod'
+b'texlive-filesystem'
+b'texlive-getfiledate'
+b'texlive-gitfile-info'
+b'texlive-latexfileinfo-pkgs'
+b'texlive-latexfileversion'
+b'texlive-longnamefilelist'
+b'texlive-ltxfileinfo'
+b'vim-plugin-tselectfiles'
+----------------------------
+>>> CentOS Package: logrotate
+openSUSE search results:
+b'logrotate'
+----------------------------
+>>> CentOS Package: lsof
+openSUSE search results:
+b'lsof'
+----------------------------
+>>> CentOS Package: man-db
+openSUSE search results:
+----------------------------
+>>> CentOS Package: net-tools
+openSUSE search results:
+b'net-tools'
+b'net-tools-lang'
+----------------------------
+>>> CentOS Package: ntsysv
+openSUSE search results:
+----------------------------
+>>> CentOS Package: pciutils
+openSUSE search results:
+b'pciutils'
+----------------------------
+>>> CentOS Package: psacct
+openSUSE search results:
+----------------------------
+>>> CentOS Package: quota
+openSUSE search results:
+b'quota'
+b'quota'
+----------------------------
+>>> CentOS Package: setserial
+openSUSE search results:
+b'setserial'
+----------------------------
+>>> CentOS Package: traceroute
+openSUSE search results:
+b'traceroute'
+----------------------------
+>>> CentOS Package: usb_modeswitch
+openSUSE search results:
+b'usb_modeswitch'
+----------------------------
+>>> CentOS Package: rubygem-abrt
+openSUSE search results:
+----------------------------
+>>> CentOS Package: abrt-addon-ccpp
+openSUSE search results:
+----------------------------
+>>> CentOS Package: abrt-addon-python
+openSUSE search results:
+----------------------------
+>>> CentOS Package: abrt-cli
+openSUSE search results:
+----------------------------
+>>> CentOS Package: abrt-console-notification
+openSUSE search results:
+----------------------------
+>>> CentOS Package: bash-completion
+openSUSE search results:
+b'bash-completion'
+----------------------------
+>>> CentOS Package: blktrace
+openSUSE search results:
+b'blktrace'
+----------------------------
+>>> CentOS Package: bridge-utils
+openSUSE search results:
+b'bridge-utils'
+b'bridge-utils-devel'
+----------------------------
+>>> CentOS Package: bzip2
+openSUSE search results:
+b'bzip2'
+b'bzip2'
+b'bzip2-doc'
+b'pbzip2'
+----------------------------
+>>> CentOS Package: chrony
+openSUSE search results:
+b'chrony'
+b'ntp2chrony'
+----------------------------
+>>> CentOS Package: cryptsetup
+openSUSE search results:
+b'cryptsetup'
+----------------------------
+>>> CentOS Package: dmraid
+openSUSE search results:
+b'dmraid'
+b'dmraid-devel'
+----------------------------
+>>> CentOS Package: dosfstools
+openSUSE search results:
+b'dosfstools'
+----------------------------
+>>> CentOS Package: ethtool
+openSUSE search results:
+b'ethtool'
+----------------------------
+>>> CentOS Package: fprintd-pam
+openSUSE search results:
+b'fprintd-pam'
+----------------------------
+>>> CentOS Package: gnupg2
+openSUSE search results:
+----------------------------
+>>> CentOS Package: hunspell
+openSUSE search results:
+b'hunspell'
+b'hunspell-devel'
+b'hunspell-devel-32bit'
+----------------------------
+>>> CentOS Package: hunspell-en
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kpatch
+openSUSE search results:
+----------------------------
+>>> CentOS Package: ledmon
+openSUSE search results:
+b'ledmon'
+----------------------------
+>>> CentOS Package: libaio
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libreport-plugin-mailx
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libstoragemgmt
+openSUSE search results:
+b'libstoragemgmt'
+b'libstoragemgmt-arcconf-plugin'
+b'libstoragemgmt-devel'
+b'libstoragemgmt-hpsa-plugin'
+b'libstoragemgmt-local-plugin'
+b'libstoragemgmt-megaraid-plugin'
+b'libstoragemgmt-netapp-plugin'
+b'libstoragemgmt-nfs-plugin'
+b'libstoragemgmt-nstor-plugin'
+b'libstoragemgmt-smis-plugin'
+b'libstoragemgmt-targetd-plugin'
+b'libstoragemgmt-udev'
+b'python3-libstoragemgmt'
+b'python3-libstoragemgmt-clibs'
+----------------------------
+>>> CentOS Package: lvm2
+openSUSE search results:
+b'lvm2'
+b'lvm2'
+----------------------------
+>>> CentOS Package: man-pages
+openSUSE search results:
+b'man-pages'
+----------------------------
+>>> CentOS Package: man-pages-overrides
+openSUSE search results:
+----------------------------
+>>> CentOS Package: mdadm
+openSUSE search results:
+b'mdadm'
+----------------------------
+>>> CentOS Package: mlocate
+openSUSE search results:
+b'mlocate'
+b'mlocate-lang'
+----------------------------
+>>> CentOS Package: mtr
+openSUSE search results:
+b'mtr'
+----------------------------
+>>> CentOS Package: nano
+openSUSE search results:
+b'nano'
+b'nano-lang'
+b'nano-plugin-conky'
+----------------------------
+>>> CentOS Package: ntpdate
+openSUSE search results:
+----------------------------
+>>> CentOS Package: pinfo
+openSUSE search results:
+b'pinfo'
+----------------------------
+>>> CentOS Package: plymouth
+openSUSE search results:
+b'blog-plymouth'
+b'plymouth'
+b'plymouth'
+----------------------------
+>>> CentOS Package: pm-utils
+openSUSE search results:
+----------------------------
+>>> CentOS Package: rdate
+openSUSE search results:
+----------------------------
+>>> CentOS Package: rfkill
+openSUSE search results:
+----------------------------
+>>> CentOS Package: rng-tools
+openSUSE search results:
+b'rng-tools'
+----------------------------
+>>> CentOS Package: rsync
+openSUSE search results:
+b'grsync'
+b'monitoring-plugins-rsync'
+b'rsync'
+b'rsync'
+----------------------------
+>>> CentOS Package: scl-utils
+openSUSE search results:
+----------------------------
+>>> CentOS Package: setuptool
+openSUSE search results:
+----------------------------
+>>> CentOS Package: smartmontools
+openSUSE search results:
+b'smartmontools'
+----------------------------
+>>> CentOS Package: sos
+openSUSE search results:
+----------------------------
+>>> CentOS Package: sssd-client
+openSUSE search results:
+----------------------------
+>>> CentOS Package: strace
+openSUSE search results:
+b'strace'
+----------------------------
+>>> CentOS Package: sysstat
+openSUSE search results:
+b'sysstat'
+b'sysstat'
+b'sysstat-isag'
+----------------------------
+>>> CentOS Package: systemtap-runtime
+openSUSE search results:
+b'systemtap-runtime'
+----------------------------
+>>> CentOS Package: tcpdump
+openSUSE search results:
+b'tcpdump'
+b'tcpdump'
+----------------------------
+>>> CentOS Package: tcsh
+openSUSE search results:
+b'tcsh'
+b'tcsh'
+b'tcsh-lang'
+----------------------------
+>>> CentOS Package: teamd
+openSUSE search results:
+----------------------------
+>>> CentOS Package: time
+openSUSE search results:
+b'adjtimex'
+b'ghc-iso8601-time'
+b'ghc-time'
+b'ghc-time-devel'
+b'ghc-unix-time'
+b'joda-time'
+b'kidletime-devel'
+b'kidletime-devel-32bit'
+b'libKF5IdleTime5'
+b'libKF5IdleTime5-32bit'
+b'libcdatetime1'
+b'libfdatetime-devel'
+b'libfdatetime1'
+b'monitoring-plugins-time'
+b'perl-DateTime-Format-Strptime'
+b'perl-Test-Mock-Time'
+b'perl-Test-MockTime'
+b'perl-Time-Duration-Parse'
+b'perl-Time-Mock'
+b'perl-Time-Moment'
+b'perl-Time-Period'
+b'perl-Time-modules'
+b'texlive-datetime'
+b'texlive-datetime2'
+b'time'
+----------------------------
+>>> CentOS Package: unzip
+openSUSE search results:
+b'unzip'
+b'unzip-doc'
+----------------------------
+>>> CentOS Package: usbutils
+openSUSE search results:
+b'usbutils'
+----------------------------
+>>> CentOS Package: vim-enhanced
+openSUSE search results:
+----------------------------
+>>> CentOS Package: virt-what
+openSUSE search results:
+b'virt-what'
+----------------------------
+>>> CentOS Package: wget
+openSUSE search results:
+b'wget'
+----------------------------
+>>> CentOS Package: which
+openSUSE search results:
+b'perl-File-Which'
+b'which'
+----------------------------
+>>> CentOS Package: words
+openSUSE search results:
+b'perl-MIME-EncWords'
+b'perl-SQL-ReservedWords'
+b'words'
+b'words-british'
+b'words-canadian'
+----------------------------
+>>> CentOS Package: xfsdump
+openSUSE search results:
+b'xfsdump'
+----------------------------
+>>> CentOS Package: xz
+openSUSE search results:
+b'xz'
+b'xz'
+b'xz-lang'
+----------------------------
+>>> CentOS Package: yum-langpacks
+openSUSE search results:
+----------------------------
+>>> CentOS Package: yum-plugin-security
+openSUSE search results:
+----------------------------
+>>> CentOS Package: yum-utils
+openSUSE search results:
+b'yum-utils'
+----------------------------
+>>> CentOS Package: zip
+openSUSE search results:
+b'ghc-zip-archive'
+b'libzip-devel'
+b'libzip5'
+b'libzip5-32bit'
+b'ruby2.5-rubygem-rubyzip'
+b'zip'
+----------------------------
+>>> CentOS Package: acpid
+openSUSE search results:
+b'acpid'
+----------------------------
+>>> CentOS Package: audispd-plugins
+openSUSE search results:
+----------------------------
+>>> CentOS Package: augeas
+openSUSE search results:
+b'augeas'
+b'ruby2.5-rubygem-ruby-augeas'
+----------------------------
+>>> CentOS Package: brltty
+openSUSE search results:
+b'brltty'
+b'brltty-lang'
+----------------------------
+>>> CentOS Package: ceph-common
+openSUSE search results:
+b'ceph-common'
+----------------------------
+>>> CentOS Package: cryptsetup-reencrypt
+openSUSE search results:
+----------------------------
+>>> CentOS Package: device-mapper-persistent-data
+openSUSE search results:
+----------------------------
+>>> CentOS Package: dos2unix
+openSUSE search results:
+b'dos2unix'
+----------------------------
+>>> CentOS Package: dumpet
+openSUSE search results:
+----------------------------
+>>> CentOS Package: genisoimage
+openSUSE search results:
+----------------------------
+>>> CentOS Package: gpm
+openSUSE search results:
+b'gpm'
+b'gpm-devel'
+----------------------------
+>>> CentOS Package: i2c-tools
+openSUSE search results:
+b'i2c-tools'
+----------------------------
+>>> CentOS Package: kabi-yum-plugins
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libatomic
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libcgroup
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libcgroup-tools
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libitm
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libstoragemgmt-netapp-plugin
+openSUSE search results:
+b'libstoragemgmt-netapp-plugin'
+----------------------------
+>>> CentOS Package: libstoragemgmt-nstor-plugin
+openSUSE search results:
+b'libstoragemgmt-nstor-plugin'
+----------------------------
+>>> CentOS Package: libstoragemgmt-smis-plugin
+openSUSE search results:
+b'libstoragemgmt-smis-plugin'
+----------------------------
+>>> CentOS Package: libstoragemgmt-targetd-plugin
+openSUSE search results:
+b'libstoragemgmt-targetd-plugin'
+----------------------------
+>>> CentOS Package: libstoragemgmt-udev
+openSUSE search results:
+b'libstoragemgmt-udev'
+----------------------------
+>>> CentOS Package: linuxptp
+openSUSE search results:
+b'linuxptp'
+----------------------------
+>>> CentOS Package: logwatch
+openSUSE search results:
+b'logwatch'
+----------------------------
+>>> CentOS Package: mkbootdisk
+openSUSE search results:
+----------------------------
+>>> CentOS Package: mtools
+openSUSE search results:
+b'mtools'
+----------------------------
+>>> CentOS Package: ncurses-term
+openSUSE search results:
+----------------------------
+>>> CentOS Package: ntp
+openSUSE search results:
+b'monitoring-plugins-ntp_time'
+b'ntp'
+b'ntp-doc'
+b'ntpsec-utils'
+----------------------------
+>>> CentOS Package: oddjob
+openSUSE search results:
+----------------------------
+>>> CentOS Package: pax
+openSUSE search results:
+b'texlive-pax-bin'
+----------------------------
+>>> CentOS Package: prelink
+openSUSE search results:
+----------------------------
+>>> CentOS Package: PyPAM
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-volume_key
+openSUSE search results:
+----------------------------
+>>> CentOS Package: redhat-lsb-core
+openSUSE search results:
+----------------------------
+>>> CentOS Package: redhat-upgrade-dracut
+openSUSE search results:
+----------------------------
+>>> CentOS Package: redhat-upgrade-tool
+openSUSE search results:
+----------------------------
+>>> CentOS Package: rsyslog-gnutls
+openSUSE search results:
+----------------------------
+>>> CentOS Package: rsyslog-gssapi
+openSUSE search results:
+----------------------------
+>>> CentOS Package: rsyslog-relp
+openSUSE search results:
+----------------------------
+>>> CentOS Package: sgpio
+openSUSE search results:
+b'sgpio'
+----------------------------
+>>> CentOS Package: sox
+openSUSE search results:
+b'sox'
+----------------------------
+>>> CentOS Package: squashfs-tools
+openSUSE search results:
+----------------------------
+>>> CentOS Package: star
+openSUSE search results:
+b'star'
+----------------------------
+>>> CentOS Package: tmpwatch
+openSUSE search results:
+b'tmpwatch'
+----------------------------
+>>> CentOS Package: udftools
+openSUSE search results:
+b'udftools'
+----------------------------
+>>> CentOS Package: uuidd
+openSUSE search results:
+b'system-user-uuidd'
+b'uuidd'
+----------------------------
+>>> CentOS Package: volume_key
+openSUSE search results:
+----------------------------
+>>> CentOS Package: wodim
+openSUSE search results:
+----------------------------
+>>> CentOS Package: x86info
+openSUSE search results:
+b'x86info'
+----------------------------
+>>> CentOS Package: yum-plugin-aliases
+openSUSE search results:
+----------------------------
+>>> CentOS Package: yum-plugin-changelog
+openSUSE search results:
+----------------------------
+>>> CentOS Package: yum-plugin-tmprepo
+openSUSE search results:
+----------------------------
+>>> CentOS Package: yum-plugin-verify
+openSUSE search results:
+----------------------------
+>>> CentOS Package: yum-plugin-versionlock
+openSUSE search results:
+----------------------------
+>>> CentOS Package: zsh
+openSUSE search results:
+b'pulseaudio-zsh-completion'
+b'zsh'
+----------------------------
+>>> CentOS Package: audit
+openSUSE search results:
+b'audit'
+b'audit-audispd-plugins'
+b'audit-visualize'
+b'libaudit1'
+b'libaudit1-32bit'
+----------------------------
+>>> CentOS Package: basesystem
+openSUSE search results:
+----------------------------
+>>> CentOS Package: bash
+openSUSE search results:
+b'bash'
+b'bash'
+b'bash-devel'
+b'bash-lang'
+b'bash-loadables'
+b'chocolate-doom-bash-completion'
+b'kopano-bash-completion'
+b'texlive-bashful'
+b'vagrant-bash-completion'
+b'zabbix-bash-completion'
+----------------------------
+>>> CentOS Package: biosdevname
+openSUSE search results:
+b'biosdevname'
+----------------------------
+>>> CentOS Package: btrfs-progs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: coreutils
+openSUSE search results:
+b'coreutils'
+b'coreutils-lang'
+----------------------------
+>>> CentOS Package: cronie
+openSUSE search results:
+b'cronie'
+b'cronie'
+----------------------------
+>>> CentOS Package: curl
+openSUSE search results:
+b'curl'
+b'curl'
+----------------------------
+>>> CentOS Package: dhclient
+openSUSE search results:
+----------------------------
+>>> CentOS Package: e2fsprogs
+openSUSE search results:
+b'e2fsprogs'
+b'e2fsprogs'
+----------------------------
+>>> CentOS Package: filesystem
+openSUSE search results:
+b'color-filesystem'
+b'filesystem'
+----------------------------
+>>> CentOS Package: firewalld
+openSUSE search results:
+b'firewalld'
+b'firewalld-lang'
+----------------------------
+>>> CentOS Package: glibc
+openSUSE search results:
+b'glibc'
+----------------------------
+>>> CentOS Package: hostname
+openSUSE search results:
+b'ghc-hostname'
+b'ghc-hostname-devel'
+b'hostname'
+b'perl-Sys-Hostname-Long'
+----------------------------
+>>> CentOS Package: initscripts
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iproute
+openSUSE search results:
+b'iproute2-bash-completion'
+----------------------------
+>>> CentOS Package: iprutils
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iptables
+openSUSE search results:
+b'iptables'
+b'python-iptables'
+----------------------------
+>>> CentOS Package: iputils
+openSUSE search results:
+b'iputils'
+----------------------------
+>>> CentOS Package: irqbalance
+openSUSE search results:
+b'irqbalance'
+----------------------------
+>>> CentOS Package: kbd
+openSUSE search results:
+b'kbd'
+b'kbd-legacy'
+----------------------------
+>>> CentOS Package: kexec-tools
+openSUSE search results:
+b'kexec-tools'
+----------------------------
+>>> CentOS Package: less
+openSUSE search results:
+b'less'
+----------------------------
+>>> CentOS Package: man-db
+openSUSE search results:
+----------------------------
+>>> CentOS Package: ncurses
+openSUSE search results:
+b'gambas3-gb-ncurses'
+b'libyui-ncurses-pkg9'
+----------------------------
+>>> CentOS Package: openssh-clients
+openSUSE search results:
+----------------------------
+>>> CentOS Package: openssh-server
+openSUSE search results:
+----------------------------
+>>> CentOS Package: parted
+openSUSE search results:
+b'parted'
+b'parted'
+b'parted-lang'
+b'python-parted'
+----------------------------
+>>> CentOS Package: passwd
+openSUSE search results:
+----------------------------
+>>> CentOS Package: plymouth
+openSUSE search results:
+b'blog-plymouth'
+b'plymouth'
+b'plymouth'
+----------------------------
+>>> CentOS Package: policycoreutils
+openSUSE search results:
+b'policycoreutils'
+b'policycoreutils-lang'
+----------------------------
+>>> CentOS Package: procps-ng
+openSUSE search results:
+----------------------------
+>>> CentOS Package: rootfiles
+openSUSE search results:
+----------------------------
+>>> CentOS Package: rpm
+openSUSE search results:
+b'rpm'
+b'rpm-build'
+b'rpmrebuild'
+b'ruby2.5-rubygem-gem2rpm'
+----------------------------
+>>> CentOS Package: rsyslog
+openSUSE search results:
+b'rsyslog'
+b'rsyslog'
+b'rsyslog-doc'
+b'rsyslog-module-gcrypt'
+b'rsyslog-module-gssapi'
+b'rsyslog-module-gtls'
+b'rsyslog-module-mysql'
+b'rsyslog-module-omtcl'
+b'rsyslog-module-pgsql'
+b'rsyslog-module-snmp'
+----------------------------
+>>> CentOS Package: selinux-policy-targeted
+openSUSE search results:
+----------------------------
+>>> CentOS Package: setup
+openSUSE search results:
+----------------------------
+>>> CentOS Package: shadow-utils
+openSUSE search results:
+----------------------------
+>>> CentOS Package: sudo
+openSUSE search results:
+b'lxqt-sudo'
+b'sudo'
+b'sudo-devel'
+b'yast2-sudo'
+----------------------------
+>>> CentOS Package: systemd
+openSUSE search results:
+b'libsystemd0'
+b'libsystemd0-32bit'
+b'python2-systemd'
+b'python3-systemd'
+b'runvdr-extreme-systemd'
+b'systemd'
+b'systemd-bash-completion'
+b'systemd-devel'
+b'systemd-icon-branding-openSUSE'
+b'systemd-rpm-macros'
+b'systemd-ui'
+----------------------------
+>>> CentOS Package: tar
+openSUSE search results:
+b'ghc-tar-devel'
+b'obs-service-tar'
+b'obs-service-tar_scm'
+b'obs-service-tar_scm'
+b'tar'
+b'tar-doc'
+b'tar-lang'
+----------------------------
+>>> CentOS Package: tuned
+openSUSE search results:
+b'tuned'
+b'tuned-profiles-atomic'
+b'tuned-profiles-nfv'
+b'tuned-profiles-oracle'
+b'tuned-profiles-realtime'
+----------------------------
+>>> CentOS Package: util-linux
+openSUSE search results:
+b'util-linux'
+b'util-linux'
+b'util-linux-lang'
+----------------------------
+>>> CentOS Package: vim-minimal
+openSUSE search results:
+----------------------------
+>>> CentOS Package: xfsprogs
+openSUSE search results:
+b'xfsprogs'
+b'xfsprogs'
+----------------------------
+>>> CentOS Package: yum
+openSUSE search results:
+b'yum'
+b'yum-lang'
+b'yum-metadata-parser'
+b'yum-refresh-updatesd'
+b'yum-utils'
+----------------------------
+>>> CentOS Package: aic94xx-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: alsa-firmware
+openSUSE search results:
+b'alsa-firmware'
+b'alsa-firmware'
+----------------------------
+>>> CentOS Package: bfa-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: dracut-config-rescue
+openSUSE search results:
+----------------------------
+>>> CentOS Package: ivtv-firmware
+openSUSE search results:
+b'ivtv-firmware'
+----------------------------
+>>> CentOS Package: iwl100-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iwl1000-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iwl105-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iwl135-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iwl2000-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iwl2030-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iwl3160-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iwl3945-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iwl4965-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iwl5000-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iwl5150-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iwl6000-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iwl6000g2a-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iwl6000g2b-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iwl6050-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iwl7260-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iwl7265-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kernel-tools
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libertas-sd8686-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libertas-sd8787-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libertas-usb8388-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libsysfs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: linux-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: microcode_ctl
+openSUSE search results:
+----------------------------
+>>> CentOS Package: NetworkManager
+openSUSE search results:
+b'NetworkManager'
+b'NetworkManager-applet'
+b'NetworkManager-connection-editor'
+b'NetworkManager-devel'
+b'NetworkManager-devel-32bit'
+b'NetworkManager-iodine'
+b'NetworkManager-iodine-gnome'
+b'NetworkManager-l2tp'
+b'NetworkManager-l2tp-gnome'
+b'NetworkManager-lang'
+b'NetworkManager-libreswan'
+b'NetworkManager-libreswan-gnome'
+b'NetworkManager-openconnect'
+b'NetworkManager-openconnect-gnome'
+b'NetworkManager-openvpn'
+b'NetworkManager-openvpn'
+b'NetworkManager-openvpn-gnome'
+b'NetworkManager-pptp'
+b'NetworkManager-pptp-gnome'
+b'NetworkManager-strongswan'
+b'NetworkManager-strongswan-gnome'
+b'NetworkManager-vpnc'
+b'NetworkManager-vpnc-gnome'
+b'libKF5NetworkManagerQt-devel'
+b'libKF5NetworkManagerQt-devel-32bit'
+b'libKF5NetworkManagerQt6'
+b'libKF5NetworkManagerQt6-32bit'
+b'libproxy1-networkmanager'
+b'typelib-1_0-NetworkManager-1_0'
+----------------------------
+>>> CentOS Package: NetworkManager-team
+openSUSE search results:
+----------------------------
+>>> CentOS Package: NetworkManager-tui
+openSUSE search results:
+----------------------------
+>>> CentOS Package: postfix
+openSUSE search results:
+b'postfix'
+b'postfix'
+b'postfix-devel'
+b'postfix-doc'
+----------------------------
+>>> CentOS Package: ql2100-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: ql2200-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: ql23xx-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: rdma
+openSUSE search results:
+----------------------------
+>>> CentOS Package: dracut-config-generic
+openSUSE search results:
+----------------------------
+>>> CentOS Package: dracut-fips
+openSUSE search results:
+b'dracut-fips'
+----------------------------
+>>> CentOS Package: dracut-fips-aesni
+openSUSE search results:
+----------------------------
+>>> CentOS Package: dracut-network
+openSUSE search results:
+----------------------------
+>>> CentOS Package: openssh-keycat
+openSUSE search results:
+----------------------------
+>>> CentOS Package: selinux-policy-mls
+openSUSE search results:
+----------------------------
+>>> CentOS Package: tboot
+openSUSE search results:
+b'tboot'
+----------------------------
+>>> CentOS Package: OVMF
+openSUSE search results:
+----------------------------
+>>> CentOS Package: Redfishtool
+openSUSE search results:
+----------------------------
+>>> CentOS Package: acl
+openSUSE search results:
+b'acl'
+----------------------------
+>>> CentOS Package: acpid
+openSUSE search results:
+b'acpid'
+----------------------------
+>>> CentOS Package: alsa-lib
+openSUSE search results:
+----------------------------
+>>> CentOS Package: attr
+openSUSE search results:
+b'attr'
+----------------------------
+>>> CentOS Package: audit
+openSUSE search results:
+b'audit'
+b'audit-audispd-plugins'
+b'audit-visualize'
+b'libaudit1'
+b'libaudit1-32bit'
+----------------------------
+>>> CentOS Package: audit-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: audit-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: authconfig
+openSUSE search results:
+----------------------------
+>>> CentOS Package: basesystem
+openSUSE search results:
+----------------------------
+>>> CentOS Package: bash
+openSUSE search results:
+b'bash'
+b'bash'
+b'bash-devel'
+b'bash-lang'
+b'bash-loadables'
+b'chocolate-doom-bash-completion'
+b'kopano-bash-completion'
+b'texlive-bashful'
+b'vagrant-bash-completion'
+b'zabbix-bash-completion'
+----------------------------
+>>> CentOS Package: bind-libs-lite
+openSUSE search results:
+----------------------------
+>>> CentOS Package: bind-license
+openSUSE search results:
+----------------------------
+>>> CentOS Package: bind-utils
+openSUSE search results:
+b'bind-utils'
+----------------------------
+>>> CentOS Package: binutils
+openSUSE search results:
+b'binutils'
+b'binutils-devel'
+b'binutils-devel-32bit'
+----------------------------
+>>> CentOS Package: biosdevname
+openSUSE search results:
+b'biosdevname'
+----------------------------
+>>> CentOS Package: boost-system
+openSUSE search results:
+----------------------------
+>>> CentOS Package: boost-thread
+openSUSE search results:
+----------------------------
+>>> CentOS Package: btrfs-progs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: build-info
+openSUSE search results:
+----------------------------
+>>> CentOS Package: bzip2-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: ca-certificates
+openSUSE search results:
+b'ca-certificates'
+----------------------------
+>>> CentOS Package: centos-logos
+openSUSE search results:
+----------------------------
+>>> CentOS Package: centos-release-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: ceph
+openSUSE search results:
+b'ceph'
+----------------------------
+>>> CentOS Package: ceph-common
+openSUSE search results:
+b'ceph-common'
+----------------------------
+>>> CentOS Package: ceph-fuse
+openSUSE search results:
+b'ceph-fuse'
+----------------------------
+>>> CentOS Package: ceph-manager
+openSUSE search results:
+----------------------------
+>>> CentOS Package: ceph-radosgw
+openSUSE search results:
+b'ceph-radosgw'
+----------------------------
+>>> CentOS Package: cgcs-patch
+openSUSE search results:
+----------------------------
+>>> CentOS Package: cgcs-patch-agent
+openSUSE search results:
+----------------------------
+>>> CentOS Package: cgcs-patch-controller
+openSUSE search results:
+----------------------------
+>>> CentOS Package: cgcs-users
+openSUSE search results:
+----------------------------
+>>> CentOS Package: cgts-client
+openSUSE search results:
+----------------------------
+>>> CentOS Package: chkconfig
+openSUSE search results:
+----------------------------
+>>> CentOS Package: collectd
+openSUSE search results:
+b'collectd'
+b'collectd-plugin-dbi'
+b'collectd-plugin-gps'
+b'collectd-plugin-ipmi'
+b'collectd-plugin-java'
+b'collectd-plugin-lua'
+b'collectd-plugin-lvm'
+b'collectd-plugin-memcachec'
+b'collectd-plugin-mysql'
+b'collectd-plugin-notify-desktop'
+b'collectd-plugin-nut'
+b'collectd-plugin-openldap'
+b'collectd-plugin-pinba'
+b'collectd-plugin-postgresql'
+b'collectd-plugin-python3'
+b'collectd-plugin-sigrok'
+b'collectd-plugin-smart'
+b'collectd-plugin-snmp'
+b'collectd-plugin-virt'
+b'collectd-plugins-all'
+b'collectd-spamassassin'
+b'collectd-web'
+b'collectd-web-js'
+b'libcollectdclient-devel'
+b'libcollectdclient1'
+----------------------------
+>>> CentOS Package: collectd-extensions
+openSUSE search results:
+----------------------------
+>>> CentOS Package: collector
+openSUSE search results:
+----------------------------
+>>> CentOS Package: config-gate
+openSUSE search results:
+----------------------------
+>>> CentOS Package: config-gate-worker
+openSUSE search results:
+----------------------------
+>>> CentOS Package: controllerconfig
+openSUSE search results:
+----------------------------
+>>> CentOS Package: coreutils
+openSUSE search results:
+b'coreutils'
+b'coreutils-lang'
+----------------------------
+>>> CentOS Package: cpio
+openSUSE search results:
+b'cpio'
+b'cpio-lang'
+----------------------------
+>>> CentOS Package: cracklib
+openSUSE search results:
+b'cracklib'
+b'cracklib-dict-small'
+----------------------------
+>>> CentOS Package: cracklib-dicts
+openSUSE search results:
+----------------------------
+>>> CentOS Package: cronie
+openSUSE search results:
+b'cronie'
+b'cronie'
+----------------------------
+>>> CentOS Package: cronie-anacron
+openSUSE search results:
+b'cronie-anacron'
+----------------------------
+>>> CentOS Package: crontabs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: cryptsetup
+openSUSE search results:
+b'cryptsetup'
+----------------------------
+>>> CentOS Package: cryptsetup-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: curl
+openSUSE search results:
+b'curl'
+b'curl'
+----------------------------
+>>> CentOS Package: curl
+openSUSE search results:
+b'curl'
+b'curl'
+----------------------------
+>>> CentOS Package: cyrus-sasl-lib
+openSUSE search results:
+----------------------------
+>>> CentOS Package: dbus
+openSUSE search results:
+b'ghc-dbus-devel'
+b'lua51-ldbus'
+b'lua51-lua-dbus'
+b'lua53-ldbus'
+b'lua53-lua-dbus'
+b'python2-slip-dbus'
+b'python3-slip-dbus'
+----------------------------
+>>> CentOS Package: dbus-glib
+openSUSE search results:
+----------------------------
+>>> CentOS Package: dbus-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: dbus-python
+openSUSE search results:
+----------------------------
+>>> CentOS Package: device-mapper
+openSUSE search results:
+b'device-mapper'
+b'device-mapper'
+----------------------------
+>>> CentOS Package: device-mapper-event
+openSUSE search results:
+----------------------------
+>>> CentOS Package: device-mapper-event-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: device-mapper-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: device-mapper-multipath
+openSUSE search results:
+----------------------------
+>>> CentOS Package: device-mapper-multipath-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: device-mapper-persistent-data
+openSUSE search results:
+----------------------------
+>>> CentOS Package: dhclient
+openSUSE search results:
+----------------------------
+>>> CentOS Package: dhcp
+openSUSE search results:
+b'dhcp'
+----------------------------
+>>> CentOS Package: dhcp-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: diffutils
+openSUSE search results:
+b'diffutils'
+b'diffutils-lang'
+----------------------------
+>>> CentOS Package: distributedcloud-client-dcmanagerclient
+openSUSE search results:
+----------------------------
+>>> CentOS Package: distributedcloud-dcdbsync
+openSUSE search results:
+----------------------------
+>>> CentOS Package: distributedcloud-dcmanager
+openSUSE search results:
+----------------------------
+>>> CentOS Package: distributedcloud-dcorch
+openSUSE search results:
+----------------------------
+>>> CentOS Package: dmidecode
+openSUSE search results:
+b'dmidecode'
+----------------------------
+>>> CentOS Package: dnsmasq
+openSUSE search results:
+b'dnsmasq'
+----------------------------
+>>> CentOS Package: dnsmasq-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: dnsmasq-utils
+openSUSE search results:
+b'dnsmasq-utils'
+----------------------------
+>>> CentOS Package: docker-ce
+openSUSE search results:
+----------------------------
+>>> CentOS Package: docker-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: docker-distribution
+openSUSE search results:
+----------------------------
+>>> CentOS Package: docker-forward-journald
+openSUSE search results:
+----------------------------
+>>> CentOS Package: dosfstools
+openSUSE search results:
+b'dosfstools'
+----------------------------
+>>> CentOS Package: dpkg
+openSUSE search results:
+b'dpkg'
+b'dpkg-devel'
+b'dpkg-lang'
+----------------------------
+>>> CentOS Package: dracut
+openSUSE search results:
+b'dracut'
+b'dracut'
+b'dracut-fips'
+b'dracut-ima'
+b'plymouth-dracut'
+----------------------------
+>>> CentOS Package: dracut-config-rescue
+openSUSE search results:
+----------------------------
+>>> CentOS Package: dracut-network
+openSUSE search results:
+----------------------------
+>>> CentOS Package: drbd
+openSUSE search results:
+b'drbd'
+b'drbd'
+----------------------------
+>>> CentOS Package: drbd-bash-completion
+openSUSE search results:
+----------------------------
+>>> CentOS Package: drbd-heartbeat
+openSUSE search results:
+----------------------------
+>>> CentOS Package: drbd-pacemaker
+openSUSE search results:
+----------------------------
+>>> CentOS Package: drbd-udev
+openSUSE search results:
+----------------------------
+>>> CentOS Package: drbd-utils
+openSUSE search results:
+b'drbd-utils'
+b'drbd-utils'
+----------------------------
+>>> CentOS Package: e2fsprogs
+openSUSE search results:
+b'e2fsprogs'
+b'e2fsprogs'
+----------------------------
+>>> CentOS Package: e2fsprogs-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: ebtables
+openSUSE search results:
+b'ebtables'
+b'ebtables'
+----------------------------
+>>> CentOS Package: efibootmgr
+openSUSE search results:
+b'efibootmgr'
+----------------------------
+>>> CentOS Package: efivar-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: elfutils-libelf
+openSUSE search results:
+----------------------------
+>>> CentOS Package: elfutils-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: enable-dev-patch
+openSUSE search results:
+----------------------------
+>>> CentOS Package: etcd
+openSUSE search results:
+b'libcetcd0'
+----------------------------
+>>> CentOS Package: ethtool
+openSUSE search results:
+b'ethtool'
+----------------------------
+>>> CentOS Package: expat
+openSUSE search results:
+b'expat'
+b'expat'
+----------------------------
+>>> CentOS Package: facter
+openSUSE search results:
+----------------------------
+>>> CentOS Package: file
+openSUSE search results:
+b'audiofile-devel'
+b'audiofile-devel-32bit'
+b'audiofile-doc'
+b'file'
+b'file-devel'
+b'file-devel-32bit'
+b'ghc-file-embed'
+b'ghc-filelock'
+b'ghc-system-filepath'
+b'libcfile-devel'
+b'libcfile1'
+b'libkdumpfile7'
+b'libpantheon-files-core-devel'
+b'libpantheon-files-widgets-devel'
+b'libscamperfile-devel'
+b'libxkbfile-devel'
+b'libxkbfile-devel-32bit'
+b'libxkbfile1'
+b'libxkbfile1-32bit'
+b'obs-service-extract_file'
+b'obs-service-format_spec_file'
+b'obs-service-verify_file'
+b'ocaml-fileutils'
+b'pantheon-files'
+b'perl-File-Comments'
+b'perl-File-MMagic'
+b'perl-File-MimeInfo'
+b'perl-File-RandomAccess'
+b'perl-File-ReadBackwards'
+b'perl-File-Temp'
+b'perl-File-Type'
+b'perl-File-Unpack'
+b'perl-Filesys-Notify-Simple'
+b'perl-LockFile-Simple'
+b'python2-lockfile'
+b'python2-pytest-openfiles'
+b'python3-lockfile'
+b'python3-pytest-openfiles'
+b'rox-filer'
+b'texlive-currfile'
+b'texlive-filemod'
+b'texlive-filesystem'
+b'texlive-getfiledate'
+b'texlive-gitfile-info'
+b'texlive-latexfileinfo-pkgs'
+b'texlive-latexfileversion'
+b'texlive-longnamefilelist'
+b'texlive-ltxfileinfo'
+b'vim-plugin-tselectfiles'
+----------------------------
+>>> CentOS Package: file-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: filesystem
+openSUSE search results:
+b'color-filesystem'
+b'filesystem'
+----------------------------
+>>> CentOS Package: filesystem-scripts
+openSUSE search results:
+----------------------------
+>>> CentOS Package: findutils
+openSUSE search results:
+b'findutils'
+b'findutils-lang'
+----------------------------
+>>> CentOS Package: fipscheck
+openSUSE search results:
+b'fipscheck'
+b'fipscheck-devel'
+b'libfipscheck1'
+b'libfipscheck1-32bit'
+----------------------------
+>>> CentOS Package: fipscheck-lib
+openSUSE search results:
+----------------------------
+>>> CentOS Package: firewalld
+openSUSE search results:
+b'firewalld'
+b'firewalld-lang'
+----------------------------
+>>> CentOS Package: fm-api
+openSUSE search results:
+----------------------------
+>>> CentOS Package: fm-common
+openSUSE search results:
+----------------------------
+>>> CentOS Package: fm-doc
+openSUSE search results:
+----------------------------
+>>> CentOS Package: fm-mgr
+openSUSE search results:
+----------------------------
+>>> CentOS Package: fm-rest-api
+openSUSE search results:
+----------------------------
+>>> CentOS Package: freetype
+openSUSE search results:
+b'freetype'
+----------------------------
+>>> CentOS Package: gawk
+openSUSE search results:
+b'gawk'
+----------------------------
+>>> CentOS Package: gdb
+openSUSE search results:
+b'gdb'
+b'libreoffice-gdb-pretty-printers'
+----------------------------
+>>> CentOS Package: gdbm
+openSUSE search results:
+----------------------------
+>>> CentOS Package: gettext
+openSUSE search results:
+b'perl-Locale-Maketext-Gettext'
+b'ruby2.5-rubygem-gettext-doc'
+b'ruby2.5-rubygem-gettext-testsuite'
+----------------------------
+>>> CentOS Package: gettext-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: glib-networking
+openSUSE search results:
+b'glib-networking'
+b'glib-networking'
+b'glib-networking-lang'
+----------------------------
+>>> CentOS Package: glib2
+openSUSE search results:
+b'glib2-lang'
+----------------------------
+>>> CentOS Package: glibc
+openSUSE search results:
+b'glibc'
+----------------------------
+>>> CentOS Package: glibc-common
+openSUSE search results:
+----------------------------
+>>> CentOS Package: gmp
+openSUSE search results:
+----------------------------
+>>> CentOS Package: gnupg2
+openSUSE search results:
+----------------------------
+>>> CentOS Package: gnutls
+openSUSE search results:
+b'gnutls'
+b'gnutls'
+b'gnutls-guile'
+----------------------------
+>>> CentOS Package: gobject-introspection
+openSUSE search results:
+b'gobject-introspection'
+----------------------------
+>>> CentOS Package: gpgme
+openSUSE search results:
+b'gpgme'
+b'gpgmepp5'
+b'gpgmepp5-32bit'
+----------------------------
+>>> CentOS Package: grep
+openSUSE search results:
+b'agrep'
+b'coccigrep'
+b'grep'
+b'grep-lang'
+b'ngrep'
+b'ripgrep'
+b'vgrep'
+----------------------------
+>>> CentOS Package: groff-base
+openSUSE search results:
+----------------------------
+>>> CentOS Package: grub2
+openSUSE search results:
+b'grub2'
+b'grub2'
+----------------------------
+>>> CentOS Package: grub2-efi-x64
+openSUSE search results:
+----------------------------
+>>> CentOS Package: grub2-efi-x64-modules
+openSUSE search results:
+----------------------------
+>>> CentOS Package: grub2-tools
+openSUSE search results:
+----------------------------
+>>> CentOS Package: grub2-tools
+openSUSE search results:
+----------------------------
+>>> CentOS Package: grubby
+openSUSE search results:
+b'grubby'
+----------------------------
+>>> CentOS Package: gsettings-desktop-schemas
+openSUSE search results:
+b'gsettings-desktop-schemas'
+b'gsettings-desktop-schemas-lang'
+----------------------------
+>>> CentOS Package: gzip
+openSUSE search results:
+b'gzip'
+----------------------------
+>>> CentOS Package: haproxy
+openSUSE search results:
+b'haproxy'
+----------------------------
+>>> CentOS Package: haproxy-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: hardlink
+openSUSE search results:
+b'hardlink'
+----------------------------
+>>> CentOS Package: helm
+openSUSE search results:
+----------------------------
+>>> CentOS Package: hiera
+openSUSE search results:
+----------------------------
+>>> CentOS Package: hostname
+openSUSE search results:
+b'ghc-hostname'
+b'ghc-hostname-devel'
+b'hostname'
+b'perl-Sys-Hostname-Long'
+----------------------------
+>>> CentOS Package: hwdata
+openSUSE search results:
+b'hwdata'
+----------------------------
+>>> CentOS Package: influxdb
+openSUSE search results:
+----------------------------
+>>> CentOS Package: influxdb-extensions
+openSUSE search results:
+----------------------------
+>>> CentOS Package: info
+openSUSE search results:
+b'info'
+b'makeinfo'
+b'python2-py-cpuinfo'
+b'python3-py-cpuinfo'
+----------------------------
+>>> CentOS Package: initscripts
+openSUSE search results:
+----------------------------
+>>> CentOS Package: initscripts-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: inventory
+openSUSE search results:
+----------------------------
+>>> CentOS Package: io-scheduler
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iotop
+openSUSE search results:
+b'iotop'
+----------------------------
+>>> CentOS Package: iperf3
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iproute
+openSUSE search results:
+b'iproute2-bash-completion'
+----------------------------
+>>> CentOS Package: iprutils
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iptables-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: iputils
+openSUSE search results:
+b'iputils'
+----------------------------
+>>> CentOS Package: iscsi-initiator-utils-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: isomd5sum
+openSUSE search results:
+----------------------------
+>>> CentOS Package: jansson
+openSUSE search results:
+----------------------------
+>>> CentOS Package: json-c
+openSUSE search results:
+b'libjson-c-devel'
+----------------------------
+>>> CentOS Package: kbd
+openSUSE search results:
+b'kbd'
+b'kbd-legacy'
+----------------------------
+>>> CentOS Package: kbd-legacy
+openSUSE search results:
+b'kbd-legacy'
+----------------------------
+>>> CentOS Package: kbd-misc
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kernel
+openSUSE search results:
+b'kernel-debug-devel'
+b'kernel-default-devel'
+b'kernel-devel'
+b'kernel-firmware'
+b'kernel-firmware'
+b'kernel-kvmsmall-devel'
+b'kernel-obs-build'
+b'kernel-obs-build'
+b'kernel-obs-qa'
+b'kernel-obs-qa'
+b'kernel-source-vanilla'
+b'kernel-vanilla-devel'
+b'lirc-disable-kernel-rc'
+b'python2-jupyter_matlab_kernel'
+b'python2-jupyter_octave_kernel'
+b'python3-jupyter_imatlab_kernel'
+b'python3-jupyter_matlab_kernel'
+b'python3-jupyter_octave_kernel'
+----------------------------
+>>> CentOS Package: kernel-tools
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kernel-tools
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kernel-tools-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kernel-tools-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kexec-tools
+openSUSE search results:
+b'kexec-tools'
+----------------------------
+>>> CentOS Package: keyutils-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kmod
+openSUSE search results:
+b'kmod'
+b'kmod-bash-completion'
+----------------------------
+>>> CentOS Package: kmod-drbd
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kmod-e1000e
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kmod-i40e
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kmod-i40evf
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kmod-integrity
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kmod-ixgbe
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kmod-ixgbevf
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kmod-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kmod-opae-fpga-driver
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kmod-tpm
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kpartx
+openSUSE search results:
+b'kpartx'
+----------------------------
+>>> CentOS Package: krb5-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kubernetes
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kubernetes-client
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kubernetes-kubeadm
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kubernetes-master
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kubernetes-node
+openSUSE search results:
+----------------------------
+>>> CentOS Package: kvm-timer-advance
+openSUSE search results:
+----------------------------
+>>> CentOS Package: ldapscripts
+openSUSE search results:
+----------------------------
+>>> CentOS Package: less
+openSUSE search results:
+b'less'
+----------------------------
+>>> CentOS Package: libacl
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libaio
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libassuan
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libattr
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libblkid
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libcap
+openSUSE search results:
+b'libcap-devel'
+----------------------------
+>>> CentOS Package: libcap-ng
+openSUSE search results:
+b'libcap-ng-devel'
+----------------------------
+>>> CentOS Package: libcephfs2
+openSUSE search results:
+b'libcephfs2'
+----------------------------
+>>> CentOS Package: libcom_err
+openSUSE search results:
+b'libcom_err-devel'
+b'libcom_err-devel-32bit'
+----------------------------
+>>> CentOS Package: libconfig
+openSUSE search results:
+b'libconfig++-devel'
+b'libconfig++11'
+b'libconfig++11-32bit'
+b'libconfig-devel'
+b'libconfig11'
+b'libconfig11-32bit'
+----------------------------
+>>> CentOS Package: libcroco
+openSUSE search results:
+b'libcroco'
+----------------------------
+>>> CentOS Package: libcurl
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libdaemon
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libdb
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libdb-utils
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libdrm
+openSUSE search results:
+b'libdrm'
+b'libdrm-devel'
+b'libdrm-devel-32bit'
+----------------------------
+>>> CentOS Package: libedit
+openSUSE search results:
+b'libedit-devel'
+----------------------------
+>>> CentOS Package: libestr
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libevent
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libffi
+openSUSE search results:
+b'libffi-devel'
+b'uwsgi-libffi'
+----------------------------
+>>> CentOS Package: libgcc
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libgcrypt
+openSUSE search results:
+b'libgcrypt'
+----------------------------
+>>> CentOS Package: libgomp
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libgpg-error
+openSUSE search results:
+b'libgpg-error-devel'
+b'libgpg-error-devel-32bit'
+----------------------------
+>>> CentOS Package: libgudev1
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libidn
+openSUSE search results:
+b'libidn-devel'
+----------------------------
+>>> CentOS Package: libmnl
+openSUSE search results:
+b'libmnl-devel'
+----------------------------
+>>> CentOS Package: libmodman
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libmount
+openSUSE search results:
+b'libmount-devel'
+b'libmount-devel-32bit'
+b'libmount-devel-static'
+b'python3-libmount'
+b'python3-libmount'
+----------------------------
+>>> CentOS Package: libndp
+openSUSE search results:
+b'libndp'
+b'libndp-devel'
+b'libndp0'
+----------------------------
+>>> CentOS Package: libnetfilter_conntrack
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libnfnetlink
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libnl
+openSUSE search results:
+b'libnl-config'
+b'libnl3-devel'
+b'libnl3-devel-32bit'
+----------------------------
+>>> CentOS Package: libnl3
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libnl3-cli
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libpcap
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libpciaccess
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libpipeline
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libproxy
+openSUSE search results:
+b'libproxy-sharp'
+b'libproxy-tools'
+b'perl-Net-Libproxy'
+b'python-libproxy'
+b'python3-libproxy'
+----------------------------
+>>> CentOS Package: libpwquality
+openSUSE search results:
+b'libpwquality-lang'
+----------------------------
+>>> CentOS Package: libreport-filesystem
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libselinux
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libselinux-python
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libselinux-utils
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libsemanage
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libsepol
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libss
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libssh2
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libstdc++
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libsysfs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libtasn1
+openSUSE search results:
+b'libtasn1'
+b'libtasn1'
+----------------------------
+>>> CentOS Package: libteam
+openSUSE search results:
+b'libteam-devel'
+b'python-libteam'
+----------------------------
+>>> CentOS Package: libtpms
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libunistring
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libuser
+openSUSE search results:
+b'libuser'
+b'libuser-devel'
+b'libuser-lang'
+b'libuser-python'
+----------------------------
+>>> CentOS Package: libutempter
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libuuid
+openSUSE search results:
+b'libuuid-devel'
+b'libuuid-devel-32bit'
+b'libuuid-devel-static'
+----------------------------
+>>> CentOS Package: libverto
+openSUSE search results:
+b'libverto-devel'
+b'libverto-devel-32bit'
+b'libverto-glib1'
+b'libverto-glib1-32bit'
+b'libverto-libev1'
+b'libverto-libev1-32bit'
+b'libverto-tevent1'
+b'libverto-tevent1-32bit'
+b'libverto1'
+b'libverto1-32bit'
+----------------------------
+>>> CentOS Package: libvirt
+openSUSE search results:
+b'libvirt'
+b'libvirt'
+b'libvirt-admin'
+b'libvirt-client'
+b'libvirt-daemon'
+b'libvirt-devel'
+b'libvirt-devel-32bit'
+b'libvirt-doc'
+b'libvirt-glib-1_0-0'
+b'libvirt-glib-devel'
+b'libvirt-libs'
+b'ocaml-libvirt'
+b'typelib-1_0-LibvirtGConfig-1_0'
+b'typelib-1_0-LibvirtGLib-1_0'
+b'typelib-1_0-LibvirtGObject-1_0'
+b'wireshark-plugin-libvirt'
+----------------------------
+>>> CentOS Package: libvirt-client
+openSUSE search results:
+b'libvirt-client'
+----------------------------
+>>> CentOS Package: libvirt-daemon
+openSUSE search results:
+b'libvirt-daemon'
+----------------------------
+>>> CentOS Package: libvirt-daemon-config-network
+openSUSE search results:
+b'libvirt-daemon-config-network'
+----------------------------
+>>> CentOS Package: libvirt-daemon-config-nwfilter
+openSUSE search results:
+b'libvirt-daemon-config-nwfilter'
+----------------------------
+>>> CentOS Package: libvirt-daemon-driver-lxc
+openSUSE search results:
+b'libvirt-daemon-driver-lxc'
+----------------------------
+>>> CentOS Package: libvirt-daemon-driver-network
+openSUSE search results:
+b'libvirt-daemon-driver-network'
+----------------------------
+>>> CentOS Package: libvirt-daemon-driver-nodedev
+openSUSE search results:
+b'libvirt-daemon-driver-nodedev'
+----------------------------
+>>> CentOS Package: libvirt-daemon-driver-nwfilter
+openSUSE search results:
+b'libvirt-daemon-driver-nwfilter'
+----------------------------
+>>> CentOS Package: libvirt-daemon-driver-qemu
+openSUSE search results:
+b'libvirt-daemon-driver-qemu'
+----------------------------
+>>> CentOS Package: libvirt-daemon-driver-secret
+openSUSE search results:
+b'libvirt-daemon-driver-secret'
+----------------------------
+>>> CentOS Package: libvirt-daemon-driver-storage
+openSUSE search results:
+b'libvirt-daemon-driver-storage'
+----------------------------
+>>> CentOS Package: libvirt-docs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: libxml2
+openSUSE search results:
+b'libxml2'
+b'python-libxml2-python'
+b'python2-libxml2-python'
+b'python3-libxml2-python'
+----------------------------
+>>> CentOS Package: libxslt
+openSUSE search results:
+b'libxslt'
+b'libxslt-devel'
+b'libxslt-devel-32bit'
+b'libxslt-python'
+b'libxslt-python'
+b'perl-XML-LibXSLT'
+----------------------------
+>>> CentOS Package: lighttpd
+openSUSE search results:
+b'lighttpd'
+b'lighttpd-mod_authn_gssapi'
+b'lighttpd-mod_authn_ldap'
+b'lighttpd-mod_authn_mysql'
+b'lighttpd-mod_authn_sasl'
+b'lighttpd-mod_magnet'
+----------------------------
+>>> CentOS Package: lighttpd-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: lighttpd-fastcgi
+openSUSE search results:
+----------------------------
+>>> CentOS Package: lighttpd-mod_geoip
+openSUSE search results:
+b'lighttpd-mod_geoip'
+----------------------------
+>>> CentOS Package: lighttpd-mod_mysql_vhost
+openSUSE search results:
+b'lighttpd-mod_mysql_vhost'
+----------------------------
+>>> CentOS Package: linux-firmware
+openSUSE search results:
+----------------------------
+>>> CentOS Package: linuxptp
+openSUSE search results:
+b'linuxptp'
+----------------------------
+>>> CentOS Package: lksctp-tools
+openSUSE search results:
+b'lksctp-tools'
+----------------------------
+>>> CentOS Package: lldpad
+openSUSE search results:
+----------------------------
+>>> CentOS Package: lldpd
+openSUSE search results:
+b'lldpd'
+----------------------------
+>>> CentOS Package: logmgmt
+openSUSE search results:
+----------------------------
+>>> CentOS Package: logrotate
+openSUSE search results:
+b'logrotate'
+----------------------------
+>>> CentOS Package: logrotate-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: lsscsi
+openSUSE search results:
+b'lsscsi'
+----------------------------
+>>> CentOS Package: lua
+openSUSE search results:
+b'lua-macros'
+b'lua51-devel'
+b'lua51-lua-dbus'
+b'lua51-lua-mpris'
+b'lua51-lua-mpris'
+b'lua53-devel'
+b'lua53-lua-dbus'
+b'lua53-lua-mpris'
+b'lua53-lua-mpris'
+b'texlive-lua2dox'
+b'texlive-luacode'
+b'vpp-api-lua'
+----------------------------
+>>> CentOS Package: lvm2
+openSUSE search results:
+b'lvm2'
+b'lvm2'
+----------------------------
+>>> CentOS Package: lvm2
+openSUSE search results:
+b'lvm2'
+b'lvm2'
+----------------------------
+>>> CentOS Package: lvm2-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: lzo
+openSUSE search results:
+b'lzo-devel'
+b'lzo-devel-32bit'
+b'lzo-devel-static'
+----------------------------
+>>> CentOS Package: make
+openSUSE search results:
+b'cmake'
+b'cmake-man'
+b'colormake'
+b'imake'
+b'make'
+b'make-lang'
+b'remake'
+b'unsermake'
+----------------------------
+>>> CentOS Package: man-db
+openSUSE search results:
+----------------------------
+>>> CentOS Package: mariadb-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: mdadm
+openSUSE search results:
+b'mdadm'
+----------------------------
+>>> CentOS Package: memcached
+openSUSE search results:
+b'gambas3-gb-memcached'
+b'libmemcached'
+b'libmemcached-devel'
+b'libmemcached11'
+b'libmemcachedutil2'
+b'memcached'
+b'memcached-devel'
+b'python2-python-memcached'
+b'python3-python-memcached'
+----------------------------
+>>> CentOS Package: memcached-custom
+openSUSE search results:
+----------------------------
+>>> CentOS Package: microcode_ctl
+openSUSE search results:
+----------------------------
+>>> CentOS Package: mlnx-ofa_kernel-modules
+openSUSE search results:
+----------------------------
+>>> CentOS Package: mlx4-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: mokutil
+openSUSE search results:
+b'mokutil'
+----------------------------
+>>> CentOS Package: monitor-tools
+openSUSE search results:
+----------------------------
+>>> CentOS Package: mozjs17
+openSUSE search results:
+b'mozjs17'
+b'mozjs17-devel'
+----------------------------
+>>> CentOS Package: mtce
+openSUSE search results:
+----------------------------
+>>> CentOS Package: mtce-compute
+openSUSE search results:
+----------------------------
+>>> CentOS Package: mtce-control
+openSUSE search results:
+----------------------------
+>>> CentOS Package: mtce-guestAgent
+openSUSE search results:
+----------------------------
+>>> CentOS Package: mtce-guestServer
+openSUSE search results:
+----------------------------
+>>> CentOS Package: mtce-hostw
+openSUSE search results:
+----------------------------
+>>> CentOS Package: mtce-hwmon
+openSUSE search results:
+----------------------------
+>>> CentOS Package: mtce-lmon
+openSUSE search results:
+----------------------------
+>>> CentOS Package: mtce-pmon
+openSUSE search results:
+----------------------------
+>>> CentOS Package: namespace-utils
+openSUSE search results:
+----------------------------
+>>> CentOS Package: ncurses
+openSUSE search results:
+b'gambas3-gb-ncurses'
+b'libyui-ncurses-pkg9'
+----------------------------
+>>> CentOS Package: ncurses-base
+openSUSE search results:
+----------------------------
+>>> CentOS Package: ncurses-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: net-snmp-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: net-snmp-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: net-snmp-python
+openSUSE search results:
+----------------------------
+>>> CentOS Package: net-snmp-utils
+openSUSE search results:
+----------------------------
+>>> CentOS Package: nettle
+openSUSE search results:
+b'nettle'
+----------------------------
+>>> CentOS Package: newt
+openSUSE search results:
+b'newt'
+b'python2-newt'
+b'python3-newt'
+----------------------------
+>>> CentOS Package: newt-python
+openSUSE search results:
+----------------------------
+>>> CentOS Package: nfs-utils-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: nfv
+openSUSE search results:
+----------------------------
+>>> CentOS Package: nfv-client
+openSUSE search results:
+----------------------------
+>>> CentOS Package: nfv-common
+openSUSE search results:
+----------------------------
+>>> CentOS Package: nfv-plugins
+openSUSE search results:
+----------------------------
+>>> CentOS Package: nfv-tools
+openSUSE search results:
+----------------------------
+>>> CentOS Package: nfv-vim
+openSUSE search results:
+----------------------------
+>>> CentOS Package: novnc
+openSUSE search results:
+b'novnc'
+----------------------------
+>>> CentOS Package: nspr
+openSUSE search results:
+----------------------------
+>>> CentOS Package: nss
+openSUSE search results:
+----------------------------
+>>> CentOS Package: nss-pam-ldapd
+openSUSE search results:
+b'nss-pam-ldapd'
+----------------------------
+>>> CentOS Package: nss-softokn
+openSUSE search results:
+----------------------------
+>>> CentOS Package: nss-softokn-freebl
+openSUSE search results:
+----------------------------
+>>> CentOS Package: nss-sysinit
+openSUSE search results:
+----------------------------
+>>> CentOS Package: nss-tools
+openSUSE search results:
+----------------------------
+>>> CentOS Package: nss-util
+openSUSE search results:
+----------------------------
+>>> CentOS Package: ntfs-3g
+openSUSE search results:
+b'ntfs-3g'
+----------------------------
+>>> CentOS Package: ntfsprogs
+openSUSE search results:
+b'ntfsprogs'
+----------------------------
+>>> CentOS Package: ntp-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: numactl-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: openldap
+openSUSE search results:
+----------------------------
+>>> CentOS Package: openldap-clients
+openSUSE search results:
+----------------------------
+>>> CentOS Package: openldap-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: openldap-servers
+openSUSE search results:
+----------------------------
+>>> CentOS Package: openscap
+openSUSE search results:
+b'openscap'
+----------------------------
+>>> CentOS Package: openscap-scanner
+openSUSE search results:
+----------------------------
+>>> CentOS Package: openssh
+openSUSE search results:
+b'openssh'
+b'openssh'
+----------------------------
+>>> CentOS Package: openssh-clients
+openSUSE search results:
+----------------------------
+>>> CentOS Package: openssh-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: openssh-server
+openSUSE search results:
+----------------------------
+>>> CentOS Package: openssl
+openSUSE search results:
+b'gambas3-gb-openssl'
+b'libopenssl1_0_0-hmac'
+b'libopenssl1_0_0-hmac-32bit'
+b'libopenssl1_1-hmac'
+b'libopenssl1_1-hmac-32bit'
+b'openssl'
+----------------------------
+>>> CentOS Package: openssl-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: openstack-barbican
+openSUSE search results:
+----------------------------
+>>> CentOS Package: openstack-barbican-api
+openSUSE search results:
+----------------------------
+>>> CentOS Package: openstack-barbican-common
+openSUSE search results:
+----------------------------
+>>> CentOS Package: openstack-barbican-keystone-listener
+openSUSE search results:
+----------------------------
+>>> CentOS Package: openstack-barbican-worker
+openSUSE search results:
+----------------------------
+>>> CentOS Package: openstack-dashboard
+openSUSE search results:
+----------------------------
+>>> CentOS Package: openstack-keystone
+openSUSE search results:
+----------------------------
+>>> CentOS Package: openstack-ras
+openSUSE search results:
+----------------------------
+>>> CentOS Package: openvswitch
+openSUSE search results:
+b'openvswitch'
+b'openvswitch'
+----------------------------
+>>> CentOS Package: openvswitch-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: os-prober
+openSUSE search results:
+b'os-prober'
+----------------------------
+>>> CentOS Package: p11-kit
+openSUSE search results:
+b'p11-kit'
+b'p11-kit-nss-trust'
+b'p11-kit-nss-trust-32bit'
+----------------------------
+>>> CentOS Package: p11-kit-trust
+openSUSE search results:
+----------------------------
+>>> CentOS Package: pam-config
+openSUSE search results:
+b'pam-config'
+----------------------------
+>>> CentOS Package: parted
+openSUSE search results:
+b'parted'
+b'parted'
+b'parted-lang'
+b'python-parted'
+----------------------------
+>>> CentOS Package: passwd
+openSUSE search results:
+----------------------------
+>>> CentOS Package: patch-alarm
+openSUSE search results:
+----------------------------
+>>> CentOS Package: pci-irq-affinity-agent
+openSUSE search results:
+----------------------------
+>>> CentOS Package: pciutils-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: pcre
+openSUSE search results:
+----------------------------
+>>> CentOS Package: perf
+openSUSE search results:
+b'perf'
+b'perf'
+----------------------------
+>>> CentOS Package: pinentry
+openSUSE search results:
+b'pinentry'
+b'pinentry'
+----------------------------
+>>> CentOS Package: pkgconfig
+openSUSE search results:
+----------------------------
+>>> CentOS Package: platform-kickstarts
+openSUSE search results:
+----------------------------
+>>> CentOS Package: platform-util
+openSUSE search results:
+----------------------------
+>>> CentOS Package: playbookconfig
+openSUSE search results:
+----------------------------
+>>> CentOS Package: pm-qos-mgr
+openSUSE search results:
+----------------------------
+>>> CentOS Package: pm-utils
+openSUSE search results:
+----------------------------
+>>> CentOS Package: policycoreutils
+openSUSE search results:
+b'policycoreutils'
+b'policycoreutils-lang'
+----------------------------
+>>> CentOS Package: popt
+openSUSE search results:
+b'popt-devel'
+----------------------------
+>>> CentOS Package: postgresql
+openSUSE search results:
+b'postgresql'
+----------------------------
+>>> CentOS Package: postgresql-contrib
+openSUSE search results:
+b'postgresql-contrib'
+----------------------------
+>>> CentOS Package: postgresql-server
+openSUSE search results:
+b'postgresql-server'
+----------------------------
+>>> CentOS Package: procps-ng
+openSUSE search results:
+----------------------------
+>>> CentOS Package: procps-ng
+openSUSE search results:
+----------------------------
+>>> CentOS Package: pth
+openSUSE search results:
+----------------------------
+>>> CentOS Package: puppet
+openSUSE search results:
+----------------------------
+>>> CentOS Package: puppet-barbican
+openSUSE search results:
+----------------------------
+>>> CentOS Package: puppet-collectd
+openSUSE search results:
+----------------------------
+>>> CentOS Package: puppet-manifests
+openSUSE search results:
+----------------------------
+>>> CentOS Package: pxe-network-installer
+openSUSE search results:
+----------------------------
+>>> CentOS Package: pygpgme
+openSUSE search results:
+----------------------------
+>>> CentOS Package: pyliblzma
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python
+openSUSE search results:
+b'cmark-python'
+b'gstreamer-plugin-python'
+b'python'
+b'python'
+b'python-avogadro'
+b'python-binplist'
+b'python-functional'
+b'python-lammps'
+b'python-libcomps-doc'
+b'python-liblarch'
+b'python-llfuse-docs'
+b'python-nautilus-common-files'
+b'python-pymod2pkg'
+b'python-pymod2pkg-doc'
+b'python-pyplete'
+b'python-pyside'
+b'python-pyside-devel'
+b'python-qpid-qmf'
+b'python-sip-common'
+b'python-sip-doc'
+b'python-typeshed'
+b'python2-EasyProcess'
+b'python2-JsonWeb'
+b'python2-Theano'
+b'python2-asteval'
+b'python2-astropy'
+b'python2-automaton'
+b'python2-baron'
+b'python2-cangjie'
+b'python2-characteristic'
+b'python2-cluster'
+b'python2-css-parser'
+b'python2-csscompressor'
+b'python2-cytoolz'
+b'python2-dask-bag'
+b'python2-dbf'
+b'python2-easygui'
+b'python2-entrypoint2'
+b'python2-fasteners'
+b'python2-featureflow'
+b'python2-freetype-py'
+b'python2-fusepy'
+b'python2-gogs_client'
+b'python2-inspektor'
+b'python2-keepalive'
+b'python2-kubernetes'
+b'python2-libpamtest'
+b'python2-memory_profiler'
+b'python2-metaextract'
+b'python2-mulpyplexer'
+b'python2-pefile'
+b'python2-petact'
+b'python2-piexif'
+b'python2-py3status'
+b'python2-pyOCD'
+b'python2-pydicom'
+b'python2-pydot'
+b'python2-pydot3'
+b'python2-pyee'
+b'python2-pylama'
+b'python2-pylast'
+b'python2-pyquery'
+b'python2-python-json-logger'
+b'python2-python-memcached'
+b'python2-python-vlc'
+b'python2-pyxdg'
+b'python2-qt4'
+b'python2-qt4-devel'
+b'python2-qt5'
+b'python2-qt5-devel'
+b'python2-requests-aws'
+b'python2-requests-hawk'
+b'python2-rope'
+b'python2-seaborn'
+b'python2-sip'
+b'python2-sip-devel'
+b'python2-smmap2'
+b'python2-speaklater'
+b'python2-sure'
+b'python2-textfsm'
+b'python2-textile'
+b'python2-thrift'
+b'python2-thriftpy'
+b'python2-toolz'
+b'python2-tweepy'
+b'python2-xcffib'
+b'python3-EasyProcess'
+b'python3-JsonWeb'
+b'python3-Pweave'
+b'python3-Theano'
+b'python3-asteval'
+b'python3-astropy'
+b'python3-automaton'
+b'python3-baron'
+b'python3-botan'
+b'python3-cangjie'
+b'python3-characteristic'
+b'python3-cluster'
+b'python3-css-parser'
+b'python3-csscompressor'
+b'python3-cytoolz'
+b'python3-dask-bag'
+b'python3-dbf'
+b'python3-easygui'
+b'python3-entrypoint2'
+b'python3-fasteners'
+b'python3-featureflow'
+b'python3-freetype-py'
+b'python3-fusepy'
+b'python3-gogs_client'
+b'python3-inspektor'
+b'python3-keepalive'
+b'python3-kubernetes'
+b'python3-libpamtest'
+b'python3-memory_profiler'
+b'python3-metaextract'
+b'python3-mulpyplexer'
+b'python3-pefile'
+b'python3-petact'
+b'python3-piexif'
+b'python3-py3status'
+b'python3-pyOCD'
+b'python3-pydicom'
+b'python3-pydot'
+b'python3-pydot3'
+b'python3-pyee'
+b'python3-pylama'
+b'python3-pylast'
+b'python3-pyquery'
+b'python3-pyside'
+b'python3-pyside-devel'
+b'python3-pyside2'
+b'python3-python-json-logger'
+b'python3-python-memcached'
+b'python3-python-vlc'
+b'python3-pyxdg'
+b'python3-qt4'
+b'python3-qt4-devel'
+b'python3-qt5'
+b'python3-qt5-devel'
+b'python3-requests-aws'
+b'python3-requests-hawk'
+b'python3-rope'
+b'python3-seaborn'
+b'python3-sip'
+b'python3-sip-devel'
+b'python3-smmap2'
+b'python3-speaklater'
+b'python3-sure'
+b'python3-textfsm'
+b'python3-textile'
+b'python3-thrift'
+b'python3-thriftpy'
+b'python3-toolz'
+b'python3-tweepy'
+b'python3-web_cache'
+b'python3-webruntime'
+b'python3-xcffib'
+b'texworks-plugin-python'
+b'vpp-api-python'
+b'watchman-python'
+----------------------------
+>>> CentOS Package: python
+openSUSE search results:
+b'cmark-python'
+b'gstreamer-plugin-python'
+b'python'
+b'python'
+b'python-avogadro'
+b'python-binplist'
+b'python-functional'
+b'python-lammps'
+b'python-libcomps-doc'
+b'python-liblarch'
+b'python-llfuse-docs'
+b'python-nautilus-common-files'
+b'python-pymod2pkg'
+b'python-pymod2pkg-doc'
+b'python-pyplete'
+b'python-pyside'
+b'python-pyside-devel'
+b'python-qpid-qmf'
+b'python-sip-common'
+b'python-sip-doc'
+b'python-typeshed'
+b'python2-EasyProcess'
+b'python2-JsonWeb'
+b'python2-Theano'
+b'python2-asteval'
+b'python2-astropy'
+b'python2-automaton'
+b'python2-baron'
+b'python2-cangjie'
+b'python2-characteristic'
+b'python2-cluster'
+b'python2-css-parser'
+b'python2-csscompressor'
+b'python2-cytoolz'
+b'python2-dask-bag'
+b'python2-dbf'
+b'python2-easygui'
+b'python2-entrypoint2'
+b'python2-fasteners'
+b'python2-featureflow'
+b'python2-freetype-py'
+b'python2-fusepy'
+b'python2-gogs_client'
+b'python2-inspektor'
+b'python2-keepalive'
+b'python2-kubernetes'
+b'python2-libpamtest'
+b'python2-memory_profiler'
+b'python2-metaextract'
+b'python2-mulpyplexer'
+b'python2-pefile'
+b'python2-petact'
+b'python2-piexif'
+b'python2-py3status'
+b'python2-pyOCD'
+b'python2-pydicom'
+b'python2-pydot'
+b'python2-pydot3'
+b'python2-pyee'
+b'python2-pylama'
+b'python2-pylast'
+b'python2-pyquery'
+b'python2-python-json-logger'
+b'python2-python-memcached'
+b'python2-python-vlc'
+b'python2-pyxdg'
+b'python2-qt4'
+b'python2-qt4-devel'
+b'python2-qt5'
+b'python2-qt5-devel'
+b'python2-requests-aws'
+b'python2-requests-hawk'
+b'python2-rope'
+b'python2-seaborn'
+b'python2-sip'
+b'python2-sip-devel'
+b'python2-smmap2'
+b'python2-speaklater'
+b'python2-sure'
+b'python2-textfsm'
+b'python2-textile'
+b'python2-thrift'
+b'python2-thriftpy'
+b'python2-toolz'
+b'python2-tweepy'
+b'python2-xcffib'
+b'python3-EasyProcess'
+b'python3-JsonWeb'
+b'python3-Pweave'
+b'python3-Theano'
+b'python3-asteval'
+b'python3-astropy'
+b'python3-automaton'
+b'python3-baron'
+b'python3-botan'
+b'python3-cangjie'
+b'python3-characteristic'
+b'python3-cluster'
+b'python3-css-parser'
+b'python3-csscompressor'
+b'python3-cytoolz'
+b'python3-dask-bag'
+b'python3-dbf'
+b'python3-easygui'
+b'python3-entrypoint2'
+b'python3-fasteners'
+b'python3-featureflow'
+b'python3-freetype-py'
+b'python3-fusepy'
+b'python3-gogs_client'
+b'python3-inspektor'
+b'python3-keepalive'
+b'python3-kubernetes'
+b'python3-libpamtest'
+b'python3-memory_profiler'
+b'python3-metaextract'
+b'python3-mulpyplexer'
+b'python3-pefile'
+b'python3-petact'
+b'python3-piexif'
+b'python3-py3status'
+b'python3-pyOCD'
+b'python3-pydicom'
+b'python3-pydot'
+b'python3-pydot3'
+b'python3-pyee'
+b'python3-pylama'
+b'python3-pylast'
+b'python3-pyquery'
+b'python3-pyside'
+b'python3-pyside-devel'
+b'python3-pyside2'
+b'python3-python-json-logger'
+b'python3-python-memcached'
+b'python3-python-vlc'
+b'python3-pyxdg'
+b'python3-qt4'
+b'python3-qt4-devel'
+b'python3-qt5'
+b'python3-qt5-devel'
+b'python3-requests-aws'
+b'python3-requests-hawk'
+b'python3-rope'
+b'python3-seaborn'
+b'python3-sip'
+b'python3-sip-devel'
+b'python3-smmap2'
+b'python3-speaklater'
+b'python3-sure'
+b'python3-textfsm'
+b'python3-textile'
+b'python3-thrift'
+b'python3-thriftpy'
+b'python3-toolz'
+b'python3-tweepy'
+b'python3-web_cache'
+b'python3-webruntime'
+b'python3-xcffib'
+b'texworks-plugin-python'
+b'vpp-api-python'
+b'watchman-python'
+----------------------------
+>>> CentOS Package: python-3parclient
+openSUSE search results:
+b'python-3parclient'
+----------------------------
+>>> CentOS Package: python-backports
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-backports-ssl_match_hostname
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-boto3
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-ceph-compat
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-cephclient
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-cephfs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-configobj
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-configobj
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-d2to1
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-daemon
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-decorator
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-django-horizon
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-fmclient
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-gobject-base
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-iniparse
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-inventoryclient
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-keyring
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-lefthandclient
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-memcached
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-pep8
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-perf
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-perf
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-psycopg2
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-pycurl
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-pyudev
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-pyudev
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-ryu-common
+openSUSE search results:
+b'python-ryu-common'
+----------------------------
+>>> CentOS Package: python-slip
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-slip-dbus
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-smartpm
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python-urlgrabber
+openSUSE search results:
+b'python-urlgrabber'
+----------------------------
+>>> CentOS Package: python2-aodhclient
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python2-barbican
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python2-barbicanclient
+openSUSE search results:
+b'python2-barbicanclient'
+----------------------------
+>>> CentOS Package: python2-botocore
+openSUSE search results:
+b'python2-botocore'
+----------------------------
+>>> CentOS Package: python2-cinderclient
+openSUSE search results:
+b'python2-cinderclient'
+----------------------------
+>>> CentOS Package: python2-coverage
+openSUSE search results:
+b'python2-coverage'
+----------------------------
+>>> CentOS Package: python2-glanceclient
+openSUSE search results:
+b'python2-glanceclient'
+----------------------------
+>>> CentOS Package: python2-gnocchiclient
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python2-gunicorn
+openSUSE search results:
+b'python2-gunicorn'
+----------------------------
+>>> CentOS Package: python2-heatclient
+openSUSE search results:
+b'python2-heatclient'
+----------------------------
+>>> CentOS Package: python2-influxdb
+openSUSE search results:
+b'python2-influxdb'
+----------------------------
+>>> CentOS Package: python2-ironicclient
+openSUSE search results:
+b'python2-ironicclient'
+----------------------------
+>>> CentOS Package: python2-keystoneclient
+openSUSE search results:
+b'python2-keystoneclient'
+----------------------------
+>>> CentOS Package: python2-ldap3
+openSUSE search results:
+b'python2-ldap3'
+----------------------------
+>>> CentOS Package: python2-libvirt
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python2-magnumclient
+openSUSE search results:
+b'python2-magnumclient'
+----------------------------
+>>> CentOS Package: python2-muranoclient
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python2-neutronclient
+openSUSE search results:
+b'python2-neutronclient'
+----------------------------
+>>> CentOS Package: python2-novaclient
+openSUSE search results:
+b'python2-novaclient'
+----------------------------
+>>> CentOS Package: python2-openstackclient
+openSUSE search results:
+b'python2-openstackclient'
+----------------------------
+>>> CentOS Package: python2-oslo-log
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python2-pankoclient
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python2-pecan
+openSUSE search results:
+b'python2-pecan'
+----------------------------
+>>> CentOS Package: python2-rsa
+openSUSE search results:
+b'python2-rsa'
+----------------------------
+>>> CentOS Package: python2-ruamel-yaml
+openSUSE search results:
+----------------------------
+>>> CentOS Package: python2-ryu
+openSUSE search results:
+b'python2-ryu'
+----------------------------
+>>> CentOS Package: python2-setuptools
+openSUSE search results:
+b'python2-setuptools'
+----------------------------
+>>> CentOS Package: python2-six
+openSUSE search results:
+b'python2-six'
+----------------------------
+>>> CentOS Package: python2-swiftclient
+openSUSE search results:
+b'python2-swiftclient'
+----------------------------
+>>> CentOS Package: python2-wsme
+openSUSE search results:
+----------------------------
+>>> CentOS Package: pyxattr
+openSUSE search results:
+----------------------------
+>>> CentOS Package: qat17
+openSUSE search results:
+----------------------------
+>>> CentOS Package: qemu-img-ev
+openSUSE search results:
+----------------------------
+>>> CentOS Package: qemu-kvm-ev
+openSUSE search results:
+----------------------------
+>>> CentOS Package: qemu-kvm-tools-ev
+openSUSE search results:
+----------------------------
+>>> CentOS Package: qrencode-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: rabbitmq-server
+openSUSE search results:
+b'rabbitmq-server'
+----------------------------
+>>> CentOS Package: rabbitmq-server-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: rdma
+openSUSE search results:
+----------------------------
+>>> CentOS Package: rdma-core
+openSUSE search results:
+b'rdma-core'
+b'rdma-core'
+----------------------------
+>>> CentOS Package: readline
+openSUSE search results:
+b'php7-readline'
+b'readline5-devel'
+b'readline5-devel-32bit'
+b'readline6-devel'
+b'readline6-devel-32bit'
+----------------------------
+>>> CentOS Package: registry-token-server
+openSUSE search results:
+----------------------------
+>>> CentOS Package: resource-agents
+openSUSE search results:
+b'resource-agents'
+b'resource-agents'
+----------------------------
+>>> CentOS Package: rootfiles
+openSUSE search results:
+----------------------------
+>>> CentOS Package: rpm
+openSUSE search results:
+b'rpm'
+b'rpm-build'
+b'rpmrebuild'
+b'ruby2.5-rubygem-gem2rpm'
+----------------------------
+>>> CentOS Package: rpm-build-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: rpm-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: rpm-plugin-systemd-inhibit
+openSUSE search results:
+----------------------------
+>>> CentOS Package: rpm-python
+openSUSE search results:
+----------------------------
+>>> CentOS Package: rsync-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: ruby-shadow
+openSUSE search results:
+----------------------------
+>>> CentOS Package: screen
+openSUSE search results:
+b'gnome-screenshot'
+b'kscreen5'
+b'kscreenlocker'
+b'kscreenlocker-devel'
+b'libKF5Screen7'
+b'libKF5Screen7-32bit'
+b'libKScreenLocker5'
+b'libkscreen2-devel'
+b'libkscreen2-devel-32bit'
+b'libkscreen2-plugin'
+b'libkscreen2-plugin-32bit'
+b'screen'
+b'screenshot-tool'
+b'simplescreenrecorder'
+b'terminfo-screen'
+b'xscreensaver'
+----------------------------
+>>> CentOS Package: sed
+openSUSE search results:
+b'sed'
+b'sed-lang'
+----------------------------
+>>> CentOS Package: selinux-policy
+openSUSE search results:
+----------------------------
+>>> CentOS Package: setup
+openSUSE search results:
+----------------------------
+>>> CentOS Package: setup-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: shadow-utils-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: shared-mime-info
+openSUSE search results:
+b'shared-mime-info'
+b'shared-mime-info-lang'
+----------------------------
+>>> CentOS Package: shim-x64
+openSUSE search results:
+----------------------------
+>>> CentOS Package: slang
+openSUSE search results:
+----------------------------
+>>> CentOS Package: sm
+openSUSE search results:
+----------------------------
+>>> CentOS Package: sm-api
+openSUSE search results:
+----------------------------
+>>> CentOS Package: sm-client
+openSUSE search results:
+----------------------------
+>>> CentOS Package: sm-common
+openSUSE search results:
+----------------------------
+>>> CentOS Package: sm-common-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: sm-db
+openSUSE search results:
+----------------------------
+>>> CentOS Package: sm-eru
+openSUSE search results:
+----------------------------
+>>> CentOS Package: sm-tools
+openSUSE search results:
+----------------------------
+>>> CentOS Package: smartmontools
+openSUSE search results:
+b'smartmontools'
+----------------------------
+>>> CentOS Package: snappy
+openSUSE search results:
+b'libsnappy1'
+b'libsnappy1-32bit'
+b'snappy-devel'
+----------------------------
+>>> CentOS Package: snmp-audittrail
+openSUSE search results:
+----------------------------
+>>> CentOS Package: snmp-ext
+openSUSE search results:
+----------------------------
+>>> CentOS Package: socat
+openSUSE search results:
+b'socat'
+----------------------------
+>>> CentOS Package: sqlite
+openSUSE search results:
+b'libQt5Sql5-sqlite'
+b'libQt5Sql5-sqlite-32bit'
+b'libpreludedb-sqlite'
+b'libqt4-sql-sqlite'
+b'libqt4-sql-sqlite-32bit'
+b'libvsqlitepp3'
+----------------------------
+>>> CentOS Package: starlingx-dashboard
+openSUSE search results:
+----------------------------
+>>> CentOS Package: strace
+openSUSE search results:
+b'strace'
+----------------------------
+>>> CentOS Package: stx-extensions
+openSUSE search results:
+----------------------------
+>>> CentOS Package: stx-ocf-scripts
+openSUSE search results:
+----------------------------
+>>> CentOS Package: stx-platform-helm
+openSUSE search results:
+----------------------------
+>>> CentOS Package: stx-ssl
+openSUSE search results:
+----------------------------
+>>> CentOS Package: sudo
+openSUSE search results:
+b'lxqt-sudo'
+b'sudo'
+b'sudo-devel'
+b'yast2-sudo'
+----------------------------
+>>> CentOS Package: sudo-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: swig
+openSUSE search results:
+b'swig'
+----------------------------
+>>> CentOS Package: swtpm
+openSUSE search results:
+----------------------------
+>>> CentOS Package: swtpm-cuse
+openSUSE search results:
+----------------------------
+>>> CentOS Package: swtpm-tools
+openSUSE search results:
+----------------------------
+>>> CentOS Package: sysinv
+openSUSE search results:
+----------------------------
+>>> CentOS Package: sysinv-agent
+openSUSE search results:
+----------------------------
+>>> CentOS Package: syslinux
+openSUSE search results:
+b'syslinux'
+----------------------------
+>>> CentOS Package: syslog-ng-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: sysstat
+openSUSE search results:
+b'sysstat'
+b'sysstat'
+b'sysstat-isag'
+----------------------------
+>>> CentOS Package: systemd
+openSUSE search results:
+b'libsystemd0'
+b'libsystemd0-32bit'
+b'python2-systemd'
+b'python3-systemd'
+b'runvdr-extreme-systemd'
+b'systemd'
+b'systemd-bash-completion'
+b'systemd-devel'
+b'systemd-icon-branding-openSUSE'
+b'systemd-rpm-macros'
+b'systemd-ui'
+----------------------------
+>>> CentOS Package: systemd
+openSUSE search results:
+b'libsystemd0'
+b'libsystemd0-32bit'
+b'python2-systemd'
+b'python3-systemd'
+b'runvdr-extreme-systemd'
+b'systemd'
+b'systemd-bash-completion'
+b'systemd-devel'
+b'systemd-icon-branding-openSUSE'
+b'systemd-rpm-macros'
+b'systemd-ui'
+----------------------------
+>>> CentOS Package: systemd-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: systemd-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: systemd-sysv
+openSUSE search results:
+----------------------------
+>>> CentOS Package: sysvinit-tools
+openSUSE search results:
+b'sysvinit-tools'
+----------------------------
+>>> CentOS Package: tar
+openSUSE search results:
+b'ghc-tar-devel'
+b'obs-service-tar'
+b'obs-service-tar_scm'
+b'obs-service-tar_scm'
+b'tar'
+b'tar-doc'
+b'tar-lang'
+----------------------------
+>>> CentOS Package: targetcli
+openSUSE search results:
+----------------------------
+>>> CentOS Package: tboot
+openSUSE search results:
+b'tboot'
+----------------------------
+>>> CentOS Package: tcp_wrappers-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: tcpdump
+openSUSE search results:
+b'tcpdump'
+b'tcpdump'
+----------------------------
+>>> CentOS Package: teamd
+openSUSE search results:
+----------------------------
+>>> CentOS Package: time
+openSUSE search results:
+b'adjtimex'
+b'ghc-iso8601-time'
+b'ghc-time'
+b'ghc-time-devel'
+b'ghc-unix-time'
+b'joda-time'
+b'kidletime-devel'
+b'kidletime-devel-32bit'
+b'libKF5IdleTime5'
+b'libKF5IdleTime5-32bit'
+b'libcdatetime1'
+b'libfdatetime-devel'
+b'libfdatetime1'
+b'monitoring-plugins-time'
+b'perl-DateTime-Format-Strptime'
+b'perl-Test-Mock-Time'
+b'perl-Test-MockTime'
+b'perl-Time-Duration-Parse'
+b'perl-Time-Mock'
+b'perl-Time-Moment'
+b'perl-Time-Period'
+b'perl-Time-modules'
+b'texlive-datetime'
+b'texlive-datetime2'
+b'time'
+----------------------------
+>>> CentOS Package: time
+openSUSE search results:
+b'adjtimex'
+b'ghc-iso8601-time'
+b'ghc-time'
+b'ghc-time-devel'
+b'ghc-unix-time'
+b'joda-time'
+b'kidletime-devel'
+b'kidletime-devel-32bit'
+b'libKF5IdleTime5'
+b'libKF5IdleTime5-32bit'
+b'libcdatetime1'
+b'libfdatetime-devel'
+b'libfdatetime1'
+b'monitoring-plugins-time'
+b'perl-DateTime-Format-Strptime'
+b'perl-Test-Mock-Time'
+b'perl-Test-MockTime'
+b'perl-Time-Duration-Parse'
+b'perl-Time-Mock'
+b'perl-Time-Moment'
+b'perl-Time-Period'
+b'perl-Time-modules'
+b'texlive-datetime'
+b'texlive-datetime2'
+b'time'
+----------------------------
+>>> CentOS Package: tpm2-openssl-engine
+openSUSE search results:
+----------------------------
+>>> CentOS Package: tpm2-tools
+openSUSE search results:
+----------------------------
+>>> CentOS Package: traceroute
+openSUSE search results:
+b'traceroute'
+----------------------------
+>>> CentOS Package: trousers
+openSUSE search results:
+b'trousers'
+----------------------------
+>>> CentOS Package: tsconfig
+openSUSE search results:
+----------------------------
+>>> CentOS Package: tss2
+openSUSE search results:
+----------------------------
+>>> CentOS Package: tzdata
+openSUSE search results:
+----------------------------
+>>> CentOS Package: unzip
+openSUSE search results:
+b'unzip'
+b'unzip-doc'
+----------------------------
+>>> CentOS Package: update-motd
+openSUSE search results:
+----------------------------
+>>> CentOS Package: ustr
+openSUSE search results:
+----------------------------
+>>> CentOS Package: util-linux
+openSUSE search results:
+b'util-linux'
+b'util-linux'
+b'util-linux-lang'
+----------------------------
+>>> CentOS Package: util-linux-config
+openSUSE search results:
+----------------------------
+>>> CentOS Package: vim-enhanced
+openSUSE search results:
+----------------------------
+>>> CentOS Package: virt-what
+openSUSE search results:
+b'virt-what'
+----------------------------
+>>> CentOS Package: vm-topology
+openSUSE search results:
+----------------------------
+>>> CentOS Package: wget
+openSUSE search results:
+b'wget'
+----------------------------
+>>> CentOS Package: which
+openSUSE search results:
+b'perl-File-Which'
+b'which'
+----------------------------
+>>> CentOS Package: worker-utils
+openSUSE search results:
+----------------------------
+>>> CentOS Package: workerconfig
+openSUSE search results:
+----------------------------
+>>> CentOS Package: workerconfig-subfunction
+openSUSE search results:
+----------------------------
+>>> CentOS Package: xfsprogs
+openSUSE search results:
+b'xfsprogs'
+b'xfsprogs'
+----------------------------
+>>> CentOS Package: xml-common
+openSUSE search results:
+----------------------------
+>>> CentOS Package: xz
+openSUSE search results:
+b'xz'
+b'xz'
+b'xz-lang'
+----------------------------
+>>> CentOS Package: xz-libs
+openSUSE search results:
+----------------------------
+>>> CentOS Package: zip
+openSUSE search results:
+b'ghc-zip-archive'
+b'libzip-devel'
+b'libzip5'
+b'libzip5-32bit'
+b'ruby2.5-rubygem-rubyzip'
+b'zip'
+----------------------------
+>>> CentOS Package: zlib
+openSUSE search results:
+b'gambas3-gb-compress-zlib'
+b'ghc-zlib'
+b'ghc-zlib-devel'
+b'jzlib'
+b'jzlib-demo'
+b'lua51-zlib'
+b'lua53-zlib'
+b'zlib'
+b'zlib-devel-static'
+b'zlib-devel-static-32bit'
