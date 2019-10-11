@@ -26,6 +26,7 @@ python3 centos-to-opensuse.py
 # wait, they're 795 packages...
 ```
 Then, do a visual inspection of the `search-results.txt` file.
+
 **search-results-success** packages in centos that have the same name in opensuse.
 
 **search-results-options** packages that appear in a `zypper se` but don't have the exact same name in opensuse
