@@ -19,10 +19,8 @@ class zypper_search:
         self.packages.append(package)
     def print(self):
         for p in self.packages:
-            results_file.write('{}\n'.format(p.name))
+            results_file_success.write('{}\n'.format(p.name))
 
-date_format = datetime.now().strftime('%b-%d-%H%M%S')
-results_file = open('search-results-{}.txt'.format(date_format), 'a')
 
 # Load packages lists
 with open(base_path) as base:
@@ -62,16 +60,27 @@ for package in comprehensive_list:
             if package == str(row[1])[2:-1]:
                 pkg.opensuse_match = row[1]
     else:
-        results_file.write('There was an error with {}:{}\n'.format(package, res.stderr))
+        results_file_success.write('There was an error with {}:{}\n'.format(package, res.stderr))
     search.add(pkg)
 
+
+date_format = datetime.now().strftime('%b-%d-%H%M%S')
+results_file_success = open('search-results-success-{}.txt'.format(date_format), 'a')
+results_file_options = open('search-results-options-{}.txt'.format(date_format), 'a')
+results_file_no_options = open('search-results-no-options-{}.txt'.format(date_format), 'a')
 # print results
 for package in search.packages:
     if package.opensuse_match:
-        results_file.write('{}\n'.format(package.opensuse_match))
+        results_file_success.write('{}\n'.format(package.opensuse_match.decode('utf-8')))
     else:
-        results_file.write('-----------------\n')
-        results_file.write('{} has these options\n'.format(package.opensuse_options))
-        results_file.write('-----------------\n')
+        if not package.opensuse_options:
+            # if opensuse_options is empty, it means there are no options
+            results_file_no_options.write('{}\n'.format(package.centos_name))
+        else:
+            # send options to other file
+            the_options = [x.decode('utf-8') for x in package.opensuse_options]
+            results_file_options.write('{} has these options:{}\n'.format(package.centos_name, the_options))
 
-results_file.close()
+results_file_success.close()
+results_file_options.close()
+results_file_no_options.close()
