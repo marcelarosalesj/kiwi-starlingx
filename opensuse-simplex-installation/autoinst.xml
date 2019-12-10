@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE profile>
+<profile
+xmlns="http://www.suse.com/1.0/yast2ns"
+xmlns:config="http://www.suse.com/1.0/configns">
+	<partitioning  config:type="list">
+		<drive>
+			<device>/dev/hda</device>
+			<partitions config:type="list">
+				<partition>
+					<filesystem config:type="symbol">ext2</filesystem>
+					<size>520Mb</size>
+					<mount>/</mount>
+				</partition>
+				<partition>
+					<filesystem config:type="symbol">reiser</filesystem>
+					<size>1200Mb</size>
+					<mount>/data</mount>
+				</partition>
+			</partitions>
+		</drive>
+	</partitioning>
+	<scripts>
+		<pre-scripts>
+			<script> 
+				<interpreter>shell</interpreter>
+				<filename>start.sh</filename>
+				<source>
+
+				<![CDATA[
+				#!/bin/sh 
+				echo "Starting installation" 
+				exit 0
+
+				]]>
+
+				</source>
+			</script>  
+		</pre-scripts>
+	</scripts>
+</profile>
