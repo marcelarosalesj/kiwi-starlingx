@@ -53,6 +53,9 @@
     <repository type="rpm-md" alias="Kernel_tools" imageinclude="true">
         <source path="obs://Kernel:tools/openSUSE_Leap_15.1"/>
     </repository>
+    <repository type="rpm-md" alias="Factory" imageinclude="true">
+        <source path="obs://openSUSE:Factory/standard"/>
+    </repository>
     <packages type="image">
         <package name="checkmedia"/>
         <package name="patterns-openSUSE-base"/>
@@ -82,9 +85,6 @@
         <package name="kernel-default"/>
         <package name="timezone"/>
         <!-- StarlingX Packages Begin -->
-        <package name="A"/>
-        <package name="B"/>
-        <package name="C"/>
         <package name="config-gate"/>
         <package name="config-gate-worker"/>
         <package name="fm-api"/>
@@ -94,7 +94,6 @@
         <package name="fm-common-doc"/>
         <package name="fm-doc"/>
         <package name="fm-mgr"/>
-        <package name="fm-rest-api"/>
         <package name="libsm_db1"/>
         <package name="libsm_db1-devel"/>
         <package name="mtce-common-devel"/>
@@ -108,7 +107,6 @@
         <package name="platform-kickstarts"/>
         <package name="platform-kickstarts-extracfgs"/>
         <package name="platform-kickstarts-pxeboot"/>
-        <package name="playbookconfig"/>
         <package name="puppet-dcdbsync"/>
         <package name="puppet-dcmanager"/>
         <package name="puppet-dcorch"/>
@@ -124,10 +122,6 @@
         <package name="sm-common-libs"/>
         <package name="sm-eru"/>
         <package name="sm-tools"/>
-        <package name="snmp-audittrail"/>
-        <package name="snmp-audittrail-devel"/>
-        <package name="snmp-ext"/>
-        <package name="snmp-ext-devel"/>
         <package name="starlingx-dashboard"/>
         <package name="storageconfig"/>
         <package name="sysinv-agent"/>
@@ -148,7 +142,6 @@
 <package name="mtce-hostw"/>
 <package name="mtce-hwmon"/>
 <package name="mtce-lmon"/>
-<package name="nova-api-proxy"/>
 <package name="patch-alarm"/>
 <package name="python-inventoryclient"/>
 <package name="sm"/>
@@ -157,8 +150,14 @@
 <package name="stx-patch"/>
 <package name="stx-patch-agent"/>
 <package name="stx-patch-controller"/>
-<package name="sysinv"/>
         <!-- StarlingX Packages End -->
+        <package name="autoyast2"/>
+        <package name="autoyast2-installation"/>
+        <package name="yast2-ncurses"/>
+        <package name="yast2-sysconfig"/>
+        <package name="ntp"/>
+        <package name="yast2-network"/>
+        <package name="gfxboot"/>
     </packages>
     <packages type="iso">
         <package name="gfxboot-branding-openSUSE"/>
